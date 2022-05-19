@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: zhw-math.github.io/teaching/
 title: teaching
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
