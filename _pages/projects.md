@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
+permalink: zhw-math.github.io/projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 1
