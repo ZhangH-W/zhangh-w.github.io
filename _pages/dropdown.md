@@ -3,7 +3,7 @@ layout: page
 title: submenus
 nav: flase
 nav_order: 3
-dropdown: true
+dropdown: flase
 children: 
     - title: publications
       permalink: /publications/
