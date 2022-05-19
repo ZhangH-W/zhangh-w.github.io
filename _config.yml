@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: Welcome # the website title (if blank, full name will be used instead)
-first_name: Hong-Wei
+first_name: Shiba
 middle_name: 
-last_name: Zhang
+last_name: Inu
 email: you@example.com
 description: 
 footer_text: 
@@ -80,7 +80,7 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
