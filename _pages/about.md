@@ -20,13 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-#### Research Interests
-- Harmonic analysis on noncompact symmetric spaces
-- Dispersive PDE on symmetric/locally symmetric spaces 
-- Spectral analysis on locally symmetric spaces
-- Asymptotic behavior of the heat semigroup on manifolds
-
-#### Experiences
+#### Present position
 <table border="0">
  <tr>
     <td> Since 2021</td>
@@ -43,39 +37,13 @@ social: false  # includes social icons at the bottom of the page
            <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>Ghent University, Belgium</td>  
  </tr>
- <tr>
-    <td> </td>
-           <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>Mentor: <a href='http://ruzhansky.org/'>Michael Ruzhansky</a></td>
- </tr>
-          
-  <tr>
-    <td> 2017-2020</td>
-            <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td> Ph.D. in Mathematics</td>
- </tr>
- <tr>
-    <td> </td>
-           <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><a href='https://www.idpoisson.fr'>Institut Denis Poisson</a></td>
- </tr>
-  <tr>
-    <td> </td>
-            <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>Université d’Orléans, France</td>
- </tr>
- <tr>
-     <td> </td>
-           <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-     <td>        
-     Supervisors: <a href='https://www.idpoisson.fr/anker/'>Jean-Philippe Anker</a><br>  
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                  <a href='https://www.imo.universite-paris-saclay.fr/~nb/'>Nicolas Burq</a>
-     </td>      
- </tr>
 </table>
 
+#### Research Interests
+- Harmonic analysis on noncompact symmetric spaces
+- Dispersive PDE on symmetric/locally symmetric spaces 
+- Spectral analysis on locally symmetric spaces
+- Asymptotic behavior of the heat semigroup on manifolds
 
 <br>  Other links: 
           [`arXiv`](https://arxiv.org/a/zhang_h_11.html) 
