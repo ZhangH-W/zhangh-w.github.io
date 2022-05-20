@@ -23,6 +23,7 @@ nav_order: 2
  </tr>
 </table>
 
+<br>
 
 ### Education
 
@@ -41,11 +42,33 @@ nav_order: 2
     <td> Supervisors: Jean-Philippe Anker and Nicolas Burq</td>
 </tr>
 
+<tr>
+    <td> 2015–2017</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td> M.S. in Mathematics, University of Paris-Saclay, Orsay, France 
+    </td>
+</tr> 
+ 
+<tr>
+    <td> 2013–2015</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td> B.S. in Mathematics, University of Orléans, France
+    </td>
+</tr> 
+ 
+ 
 </table>
 
 <br>
 
 ### Awards and Scholarships
+
+<tr>
+    <td> 2021</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td> Chinese government award for outstanding self finance students abroad
+    </td>
+</tr> 
 
 <br>
 
