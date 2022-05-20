@@ -20,10 +20,35 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+<table border="0">
+ <tr>
+    <td> since 2021</td>
+    <td> Postdoctoral researcher</td>
+ </tr>
+ <tr>
+    <td> </td>
+    <td><a href='https://analysis-pde.org/'>Analysis & PDE Center</a>, Ghent University, Belgium</td>
+ </tr>
+ <tr>
+    <td> </td>
+    <td>mentor: <a href='http://ruzhansky.org/'>Michael Ruzhansky</a></td>
+ </tr>
+          
+  <tr>
+    <td> 2017-2020</td>
+    <td> Ph.D. in Mathematics</td>
+ </tr>
+ <tr>
+    <td> </td>
+    <td><a href='https://www.idpoisson.fr'>Institut Denis Poisson</a>, Université d’Orléans, France)</td>
+ </tr>
+ <tr>
+    <td> </td>
+    <td>supervisors: <a href='https://www.idpoisson.fr/anker/'>Jean-Philippe Anker (Orléans)</a> and 
+           <a href='https://www.imo.universite-paris-saclay.fr/~nb/'>Nicolas Burq (Orsay)</a></td>
+ </tr>   
+</table>
 
-#### TEST
-- From 2021: postdoctoral researcher, [Analysis & PDE Center](https://analysis-pde.org/), Ghent University (Belgium), mentor: [Michael Ruzhansky](http://ruzhansky.org/)
-- 2017-2020: Ph.D. in Mathematics, Université d’Orléans (France), supervisors: [Jean-Philippe Anker (Orléans)](https://www.idpoisson.fr/anker/) and [Nicolas Burq (Orsay)](https://www.imo.universite-paris-saclay.fr/~nb/)
 
 
 
