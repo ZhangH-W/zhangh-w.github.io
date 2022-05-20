@@ -19,7 +19,7 @@ nav_order: 2
   <tr>
     <td> </td>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td> mentor: Michael Ruzhansky</td>
+    <td> Mentor: Michael Ruzhansky</td>
  </tr>
 </table>
 
@@ -30,13 +30,9 @@ nav_order: 2
 <tr>
     <td> 2017–2020</td>
     <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td> Ph.D. in Mathematics, University of Orléans, France</td>
-</tr>
- 
-<tr>
-    <td> </td>
-    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td> Title of thesis: Équation des ondes sur les espaces symétriques et localement symétriques de type non-compact</td>
+    <td> Ph.D. in Mathematics, University of Orléans, France 
+         <a href='https://tel.archives-ouvertes.fr/tel-03042468v2/document'>[thesis manuscript]</a>    
+    </td>
 </tr>
  
 <tr>
@@ -45,17 +41,6 @@ nav_order: 2
     <td> Supervisors: Jean-Philippe Anker and Nicolas Burq</td>
 </tr>
 
-<tr>
-    <td> </td>
-    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td> Reviewers: Michael Cowling and Nikolay Tzvetkov</td>
-</tr>
- 
-<tr>
-    <td> </td>
-    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td> Jury: Valeria Banica, Michael Cowling, Luc Hillairet, Nikolay Tzvetkov and Michael Ruzhansky</td>
-</tr>
 </table>
 
 <br>
