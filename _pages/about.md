@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: email: hongwei.zhang at ugent.be
+subtitle: <a href='https://arxiv.org/a/zhang_h_11.html'>[arXiv]</a>
+          <a href='https://scholar.google.com/citations?user=5ZPwfYcAAAAJ&hl=en&oi=sra'>[Google Scholar]</a>
+          <a href='https://www.researchgate.net/profile/Hong-Wei-Zhang-4'>[Research Gate]</a>
 
 profile:
   align: right
@@ -22,10 +24,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-
-<a href='https://arxiv.org/a/zhang_h_11.html'>[arXiv]</a>
-          <a href='https://scholar.google.com/citations?user=5ZPwfYcAAAAJ&hl=en&oi=sra'>[Google Scholar]</a>
-          <a href='https://www.researchgate.net/profile/Hong-Wei-Zhang-4'>[Research Gate]</a>
+email: hongwei.zhang at ugent.be
 
 ['email'](https://en.wikipedia.org/wiki/Shiba_Inu). 
 
