@@ -23,35 +23,43 @@ social: false  # includes social icons at the bottom of the page
 <table border="0">
  <tr>
     <td> Since 2021</td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td> Postdoctoral researcher</td>
  </tr>
  <tr>
     <td> </td>
+    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href='https://analysis-pde.org/'>Analysis & PDE Center</a></td>
  </tr>
  <tr>
     <td> </td>
+           <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>Ghent University, Belgium</td>  
  </tr>
  <tr>
     <td> </td>
+           <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>Mentor: <a href='http://ruzhansky.org/'>Michael Ruzhansky</a></td>
  </tr>
           
   <tr>
     <td> 2017-2020</td>
+            <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td> Ph.D. in Mathematics</td>
  </tr>
  <tr>
     <td> </td>
+           <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td><a href='https://www.idpoisson.fr'>Institut Denis Poisson</a></td>
  </tr>
   <tr>
     <td> </td>
+            <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>Université d’Orléans, France</td>
  </tr>
  <tr>
      <td> </td>
+           <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
      <td>        
      Supervisors: <a href='https://www.idpoisson.fr/anker/'>Jean-Philippe Anker (Orléans)</a><br>  
                   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
