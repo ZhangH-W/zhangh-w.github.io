@@ -14,7 +14,7 @@ profile:
     <p>Ghent University</p>
     <p>Krijgslaan 281, Building S8</p>
     <p>B9000, Ghent, Belgium</p>
-    <p>(Languages: CH, EN, FR)</p>
+    
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -49,7 +49,6 @@ social: false  # includes social icons at the bottom of the page
 
 <br>  
 
-Other links: 
           [`arXiv`](https://arxiv.org/a/zhang_h_11.html) 
           [`Google Scholar`](https://scholar.google.com/citations?user=5ZPwfYcAAAAJ&hl)
           [`Research Gate`](https://www.researchgate.net/profile/Hong-Wei-Zhang-4)
