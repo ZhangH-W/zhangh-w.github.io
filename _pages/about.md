@@ -50,12 +50,6 @@ social: false  # includes social icons at the bottom of the page
 </table>
 
 
-
-
-
-
-
-
-Other links: [arXiv](https://arxiv.org/a/zhang_h_11.html) 
-             [Google Scholar](https://scholar.google.com/citations?user=5ZPwfYcAAAAJ&hl)
-             [Research Gate](https://www.researchgate.net/profile/Hong-Wei-Zhang-4)
+Other links: [`arXiv`](https://arxiv.org/a/zhang_h_11.html) 
+             [`Google Scholar`](https://scholar.google.com/citations?user=5ZPwfYcAAAAJ&hl)
+             [`Research Gate`](https://www.researchgate.net/profile/Hong-Wei-Zhang-4)
