@@ -39,13 +39,17 @@ social: false  # includes social icons at the bottom of the page
  </tr>
 </table>
 
-#### Research Interests
+<br>
+
+#### Research interests
 - Harmonic analysis on noncompact symmetric spaces
 - Dispersive PDE on symmetric/locally symmetric spaces 
 - Spectral analysis on locally symmetric spaces
 - Asymptotic behavior of the heat semigroup on manifolds
 
-<br>  Other links: 
+<br>  
+
+Other links: 
           [`arXiv`](https://arxiv.org/a/zhang_h_11.html) 
           [`Google Scholar`](https://scholar.google.com/citations?user=5ZPwfYcAAAAJ&hl)
           [`Research Gate`](https://www.researchgate.net/profile/Hong-Wei-Zhang-4)
