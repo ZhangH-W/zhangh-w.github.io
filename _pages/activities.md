@@ -3,7 +3,7 @@ layout: page
 permalink: /Activities/
 title: Activities
 description: Activities.
-nav: true
+nav: false
 nav_order: 2
 ---
 
