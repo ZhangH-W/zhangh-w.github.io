@@ -22,7 +22,7 @@ social: false  # includes social icons at the bottom of the page
 
 <table border="0">
  <tr>
-    <td> since 2021</td>
+    <td> Since 2021</td>
     <td> Postdoctoral researcher</td>
  </tr>
  <tr>
@@ -31,7 +31,7 @@ social: false  # includes social icons at the bottom of the page
  </tr>
  <tr>
     <td> </td>
-    <td>mentor: <a href='http://ruzhansky.org/'>Michael Ruzhansky</a></td>
+    <td>Mentor: <a href='http://ruzhansky.org/'>Michael Ruzhansky</a></td>
  </tr>
           
   <tr>
@@ -40,11 +40,11 @@ social: false  # includes social icons at the bottom of the page
  </tr>
  <tr>
     <td> </td>
-    <td><a href='https://www.idpoisson.fr'>Institut Denis Poisson</a>, Université d’Orléans, France)</td>
+    <td><a href='https://www.idpoisson.fr'>Institut Denis Poisson</a>, Université d’Orléans, France</td>
  </tr>
  <tr>
     <td> </td>
-    <td>supervisors: <a href='https://www.idpoisson.fr/anker/'>Jean-Philippe Anker (Orléans)</a> and 
+    <td>Supervisors: <a href='https://www.idpoisson.fr/anker/'>Jean-Philippe Anker (Orléans)</a> and 
            <a href='https://www.imo.universite-paris-saclay.fr/~nb/'>Nicolas Burq (Orsay)</a></td>
  </tr>   
 </table>
