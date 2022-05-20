@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: <a href='mailto:hongwei.zhang@ugent.be'>email</a>
-          : hongwei.zhang at ugent.be
+          hongwei.zhang at ugent.be
 
 profile:
   align: right
