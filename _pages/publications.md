@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /research/
 title: research
 description: Analysis and PDE on manifolds
 years: [2022, 2021, 2020]
