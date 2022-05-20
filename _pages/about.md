@@ -42,10 +42,12 @@ social: false  # includes social icons at the bottom of the page
 <br>
 
 #### Research interests
-- Harmonic analysis on noncompact symmetric spaces
-- Dispersive PDE on symmetric/locally symmetric spaces 
-- Spectral analysis on locally symmetric spaces
-- Asymptotic behavior of the heat semigroup on manifolds
+<pre>
+• Harmonic analysis on noncompact symmetric spaces
+• Dispersive PDE on symmetric/locally symmetric spaces 
+• Spectral analysis on locally symmetric spaces
+• Asymptotic behavior of the heat semigroup on manifolds
+</pre>
 
 <br>  
 
