@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='mailto:hongwei.zhang@ugent.be'>[email:]</a>
+subtitle: <a href='mailto:hongwei.zhang@ugent.be'>[email]</a>
           hongwei.zhang at ugent.be
 
 profile:
@@ -21,8 +21,9 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-## TEST
-- sdf
+#### TEST
+- From 2021: postdoctoral researcher, [Analysis & PDE Center](https://analysis-pde.org/), Ghent University (Belgium), mentor: [Michael Ruzhansky](http://ruzhansky.org/)
+- 2017-2020: Ph.D. in Mathematics, Université d’Orléans (France), supervisors: [Jean-Philippe Anker (Orléans)](https://www.idpoisson.fr/anker/) and [Nicolas Burq (Orsay)](https://www.imo.universite-paris-saclay.fr/~nb/)
 
 
 
