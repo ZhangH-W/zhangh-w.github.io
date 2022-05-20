@@ -2,7 +2,7 @@
 layout: page
 permalink: /Research/
 title: Research
-description: Analysis and PDE on manifolds
+description: 
 years: [preprint, 2022, 2021, 2020]
 nav: true
 nav_order: 2
