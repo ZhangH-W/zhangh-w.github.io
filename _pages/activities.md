@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Activities/
-title: Activities
+permalink: /activities/
+title: activities
 description: Activities.
 nav: ture
 nav_order: 2
