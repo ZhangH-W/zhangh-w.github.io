@@ -3,7 +3,7 @@ layout: page
 permalink: /activities/
 title: activities
 description: Activities.
-nav: ture
+nav: false
 nav_order: 2
 ---
 
