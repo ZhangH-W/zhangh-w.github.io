@@ -27,7 +27,11 @@ social: false  # includes social icons at the bottom of the page
  </tr>
  <tr>
     <td> </td>
-    <td><a href='https://analysis-pde.org/'>Analysis & PDE Center</a>, Ghent University, Belgium</td>
+    <td><a href='https://analysis-pde.org/'>Analysis & PDE Center</a></td>
+ </tr>
+ <tr>
+    <td> </td>
+    <td>Ghent University, Belgium</td>  
  </tr>
  <tr>
     <td> </td>
@@ -40,13 +44,21 @@ social: false  # includes social icons at the bottom of the page
  </tr>
  <tr>
     <td> </td>
-    <td><a href='https://www.idpoisson.fr'>Institut Denis Poisson</a>, Université d’Orléans, France</td>
+    <td><a href='https://www.idpoisson.fr'>Institut Denis Poisson</a></td>
+ </tr>
+  <tr>
+    <td> </td>
+    <td>Université d’Orléans, France</td>
  </tr>
  <tr>
-    <td> </td>
-    <td>Supervisors: <a href='https://www.idpoisson.fr/anker/'>Jean-Philippe Anker (Orléans)</a> and 
-           <a href='https://www.imo.universite-paris-saclay.fr/~nb/'>Nicolas Burq (Orsay)</a></td>
- </tr>   
+     <td> </td>
+     <td>        
+     Supervisors: <a href='https://www.idpoisson.fr/anker/'>Jean-Philippe Anker (Orléans)</a><br>  
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  <a href='https://www.imo.universite-paris-saclay.fr/~nb/'>Nicolas Burq (Orsay)</a>
+     </td>      
+ </tr>
 </table>
 
 
