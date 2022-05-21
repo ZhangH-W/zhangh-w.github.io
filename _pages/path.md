@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Path/
-title: Path
+permalink: /Journey/
+title: Journey
 description: 
 nav: true
 nav_order: 2
