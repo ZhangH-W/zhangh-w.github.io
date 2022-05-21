@@ -54,6 +54,20 @@ nav_order: 2
   <td width="150">2013–2015</td>
   <td width="10"> </td>
   <td width="1500">B.S. in Mathematics, University of Orléans, France</td>
+</tr>
+</table>
+
+<table>
+<tr>           
+  <td width="150">2012–2013</td>
+  <td width="10"> </td>
+  <td width="1500">French Language School, University Savoie Mont Blanc, Chambéry, France</td>
+</tr>    
+  
+<tr>           
+  <td width="150">2007–2011</td>
+  <td width="10"> </td>
+  <td width="1500">B.S. in Management, Dalian Polytechnic University, China</td>
 </tr>   
 </table>
 
