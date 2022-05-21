@@ -57,9 +57,9 @@ nav_order: 2
 </tr>
 
 <tr>           
-  <td heigh="10"> </td>
-  <td heigh="10"> </td>
-  <td heigh="10"> </td>
+  <td heigh="20"> </td>
+  <td heigh="20"> </td>
+  <td heigh="20"> </td>
 </tr> 
   
 <tr>           
