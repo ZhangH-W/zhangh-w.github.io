@@ -169,30 +169,30 @@ nav_order: 2
   <td width="150">Jun. 2021</td>
   <td width="10"> </td>
   <td width="1500">Analyse et EDP Conférence en l’honneur de Patrick Gérard Orsay, France
-                   <a href='https://pgerard60ans.sciencesconf.org'>[link]</td>
+                   <a href='https://pgerard60ans.sciencesconf.org'>[link]</a></td>
 </tr>
 <tr>           
   <td width="150">Sep. 2020</td>
   <td width="10"> </td>
   <td width="1500">Noncommutative Analysis, Ghent, Belgium (online)
-                   <a href='https://analysis-pde.org/noncommutative-conference/'>[link]</td></td>
+                   <a href='https://analysis-pde.org/noncommutative-conference/'>[link]</a></td>
 </tr>  
 <tr>           
   <td width="150">Mar. 2019</td>
   <td width="10"> </td>
   <td width="1500">Les 60 ans de Jean-Yves Chemin, Paris, France
-                  <a href='https://j-ychemin60ans.sciencesconf.org'>[link]</td></td>
+                  <a href='https://j-ychemin60ans.sciencesconf.org'>[link]</a></td>
 </tr>
 <tr>           
   <td width="150">Nov. 2018</td>
   <td width="10"> </td>
   <td width="1500">Analyse des EDP, Paris, France
-                  <a href='https://robbiano2018.sciencesconf.org'>[link]</td></td>
+                  <a href='https://robbiano2018.sciencesconf.org'>[link]</a></td>
 </tr>
 <tr>           
   <td width="150">Jun. 2017</td>
   <td width="10"> </td>
   <td width="1500">School: Contemporary Perspectives in Geometry, Strasbourg, France
-                   <a href='http://irma.math.unistra.fr/article1606.html'>[link]</td></td>
+                   <a href='http://irma.math.unistra.fr/article1606.html'>[link]</a></td>
 </tr>
 </table>
