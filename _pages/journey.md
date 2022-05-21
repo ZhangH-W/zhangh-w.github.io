@@ -168,27 +168,45 @@ nav_order: 2
 
 <table style="table-layout:fixed;">
 <tr>           
+  <td width="150">Jun. 2022</td>
+  <td width="10"> </td>
+  <td width="1500">	Analyse: conférence en hommage à Jean Ginibre
+                   <a href='https://hommageginibre.sciencesconf.org/?forward-action=index&forward-controller=index&lang=fr'>[link]</a></td>
+</tr>
+<tr>           
+  <td width="150">May. 2022</td>
+  <td width="10"> </td>
+  <td width="1500">Trends in calculus of variations and PDEs, Sussex&Ghent, UK&Belgium (online)
+                   <a href='https://sites.google.com/view/tcvpde-2022/home'>[link]</a></td>
+</tr>
+<tr>           
+  <td width="150">Mar. 2022</td>
+  <td width="10"> </td>
+  <td width="1500">Geometric analysis on manifolds, fractals and metric spaces, Yamagata, Japan (online)
+                   <a href='https://www.math.uni-bielefeld.de/~grigor/workshop.htm'>[link]</a></td>
+</tr>
+<tr>           
   <td width="150">Oct. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Harmonic Analysis and Symmetric Spaces Madison, USA (online)
+  <td width="1500">Harmonic Analysis and symmetric spaces, Madison, USA (online)
                    <a href='https://sites.google.com/view/hass21/home'>[link]</a></td>
 </tr>
 <tr>           
   <td width="150">Sep. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Hyperbolic Dynamical Systems and Resonances Porquerolles, France
+  <td width="1500">Hyperbolic dynamical systems and resonances, Porquerolles, France
                    <a href='https://www.imo.universite-paris-saclay.fr/~guillarmou/participants.html'>[link]</a></td>
 </tr>
 <tr>           
   <td width="150">Jun. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Analyse et EDP Conférence en l’honneur de Patrick Gérard Orsay, France
+  <td width="1500">Analyse et EDP Conférence en l’honneur de Patrick Gérard, Orsay, France
                    <a href='https://pgerard60ans.sciencesconf.org'>[link]</a></td>
 </tr>
 <tr>           
   <td width="150">Sep. 2020</td>
   <td width="10"> </td>
-  <td width="1500">Noncommutative Analysis, Ghent, Belgium (online)
+  <td width="1500">Noncommutative analysis, Ghent, Belgium (online)
                    <a href='https://analysis-pde.org/noncommutative-conference/'>[link]</a></td>
 </tr>  
 <tr>           
@@ -206,7 +224,7 @@ nav_order: 2
 <tr>           
   <td width="150">Jun. 2017</td>
   <td width="10"> </td>
-  <td width="1500">School: Contemporary Perspectives in Geometry, Strasbourg, France
+  <td width="1500">School: Contemporary perspectives in geometry, Strasbourg, France
                    <a href='http://irma.math.unistra.fr/article1606.html'>[link]</a></td>
 </tr>
 </table>
