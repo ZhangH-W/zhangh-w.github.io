@@ -12,25 +12,40 @@ nav_order: 2
 <table style="table-layout:fixed;">
 <tr>           
   <td width="150">Since 2021</td>
-  <td width="5"> </td>
-  <td width="1500">Postdoctoral researcherPostdoctoral researcherPostdoctoral researcher, Analysis & PDE Center, Ghent University, Belgium, mentor: Michael Ruzhansky</td>
+  <td width="10"> </td>
+  <td width="1500">
+    Postdoctoral researcher, Analysis & PDE Center, Ghent University, Belgium, 
+    mentor: <a href="https://ruzhansky.org">Michael Ruzhansky</a></td>
 </tr>            
 </table>
-                   
-  
-           
-</pre>
 
 <br>
 
 ### Education
 
-<pre>
-2017–2020  Ph.D. in Mathematics, University of Orléans, France <a href='https://tel.archives-ouvertes.fr/tel-03042468v2/document'>[Manuscript]</a>
-           Supervisors: Jean-Philippe Anker and Nicolas Burq
-2015–2017  M.S. in Mathematics, University of Paris-Saclay, Orsay, France 
-2013–2015  B.S. in Mathematics, University of Orléans, France
-</pre>
+<table style="table-layout:fixed;">
+<tr>           
+  <td width="150">2017–2020</td>
+  <td width="10"> </td>
+  <td width="1500">
+    Ph.D. in Mathematics, University of Orléans, France,
+    supervisors: Jean-Philippe Anker and Nicolas Burq
+    <a href='https://tel.archives-ouvertes.fr/tel-03042468v2/document'>[Manuscript]</a></td>
+</tr>
+
+<tr>           
+  <td width="150">2015–2017</td>
+  <td width="10"> </td>
+  <td width="1500">M.S. in Mathematics, University of Paris-Saclay, Orsay, France</td>
+</tr>  
+
+<tr>           
+  <td width="150">2013–2015</td>
+  <td width="10"> </td>
+  <td width="1500">B.S. in Mathematics, University of Orléans, France</a></td>
+</tr>   
+</table>
+
 
 <br>
 
