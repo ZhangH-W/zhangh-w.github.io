@@ -55,9 +55,13 @@ nav_order: 2
   <td width="10"> </td>
   <td width="1500">B.S. in Mathematics, University of Orléans, France</td>
 </tr>
-</table>
 
-<table>
+<tr>           
+  <td heigh="10"> </td>
+  <td heigh="10"> </td>
+  <td heigh="10"> </td>
+</tr> 
+  
 <tr>           
   <td width="150">2012–2013</td>
   <td width="10"> </td>
