@@ -73,46 +73,46 @@ nav_order: 2
 <tr>           
   <td width="150">Feb. 2022</td>
   <td width="10"> </td>
-  <td width="1500">Spectra and Dynamics on (Locally) Symmetric Spaces Paderborn, Germany
+  <td width="1500">Spectra and dynamics on (locally) symmetric spaces, Paderborn, Germany
                    <a href='https://math.uni-paderborn.de/conferences/sdlss'>[link]</a></td>
 </tr>
 <tr>           
   <td width="150">Dec. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Workshop on Classical Analysis and Applications Yaoundé, Cameroon (online)</td>
+  <td width="1500">Workshop on classical analysis and applications, Yaoundé, Cameroon (online)</td>
 </tr>
 <tr>           
   <td width="150">Oct. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Modern Analysis Related to Root Systems with Applications CIRM, France
+  <td width="1500">Modern analysis related to root systems with applications, CIRM, France
                    <a href='https://conferences.cirm-math.fr/2404.html'>[link]</a></td>
 </tr>  
 <tr>           
   <td width="150">Jul. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Analyse Harmonique et EDP, Evry, France
+  <td width="1500">Analyse harmonique et EDP, Evry, France
     <a href='https://analyse-et-edp.sciencesconf.org/resource/page/id/1'>[link]</a></td>
 </tr>  
 <tr>           
   <td width="150">Mar. 2021</td>
   <td width="10"> </td>
-  <td width="1500">AMS Spring Eastern Sectional Meeting, Brown University, USA (online)
+  <td width="1500">AMS Spring eastern sectional meeting, Brown University, USA (online)
                    <a href='https://www.ams.org/meetings/sectional/2284_program_ss16.html'>[link]</a></td>
 </tr>  
 <tr>           
   <td width="150">Feb. 2020</td>
   <td width="10"> </td>
-  <td width="1500">Qilu Youth Forum, Shandong University, China (online)</td>
+  <td width="1500">Qilu youth forum, Shandong University, China (online)</td>
 </tr>    
 <tr>           
   <td width="150">Jan. 2020</td>
   <td width="10"> </td>
-  <td width="1500">Workshop Harmonic Analysis and Applications, Tsinghua Sanya International Mathematics Forum, Sanya, China</td>
+  <td width="1500">Workshop harmonic analysis and applications, Tsinghua Sanya International Mathematics Forum, Sanya, China</td>
 </tr>
 <tr>           
   <td width="150">Dec. 2018</td>
   <td width="10"> </td>
-  <td width="1500">The Legacy of Joseph Fourier after 250 years, Tsinghua Sanya International Mathematics Forum, Sanya, China</td>
+  <td width="1500">The legacy of Joseph Fourier after 250 years, Tsinghua Sanya International Mathematics Forum, Sanya, China</td>
 </tr>    
 </table>
 
