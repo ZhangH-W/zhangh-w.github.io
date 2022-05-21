@@ -14,9 +14,14 @@ nav_order: 2
   <td width="150">Since 2021</td>
   <td width="10"> </td>
   <td width="1500">
-    Postdoctoral researcher, Analysis & PDE Center, Ghent University, Belgium, 
-    mentor: <a href="https://ruzhansky.org">Michael Ruzhansky</a></td>
-</tr>            
+    Postdoctoral researcher, Analysis & PDE Center, Ghent University, Belgium</td>
+</tr>
+<tr>           
+  <td width="150"> </td>
+  <td width="10"> </td>
+  <td width="1500">
+    Mentor: <a href="https://ruzhansky.org">Michael Ruzhansky</a></td>
+</tr>  
 </table>
 
 <br>
