@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+#### Université d'Orléans (2017-2020)
 <table style="table-layout:fixed;">
 <tr>           
   <td width="120">2019–2020</td>
@@ -15,7 +16,7 @@ nav_order: 2
   <td width="15"> </td>
   <td width="20"> L1</td>
   <td width="15"> </td>
-  <td width="600">Calculus: Analyses et Algèbres élémentaires, Université d'Orléans</td>
+  <td width="600">Calculus: Analyses et Algèbres élémentaires</td>
 </tr>
 <tr>           
   <td width="120">2018–2019</td>
@@ -24,7 +25,7 @@ nav_order: 2
   <td width="15"> </td>
   <td width="20"> L1</td>
   <td width="15"> </td>
-  <td width="600">Calculus: Analyses et Algèbres élémentaires, Université d'Orléans</td>
+  <td width="600">Calculus: Analyses et Algèbres élémentaires</td>
 </tr>
 <tr>           
   <td width="120"> </td>
@@ -33,7 +34,7 @@ nav_order: 2
   <td width="15"> </td>
   <td width="20"> A3</td>
   <td width="15"> </td>
-  <td width="600">Soutien :Transformation de Laplace, Polytech d'Orléans</td>
+  <td width="600">Soutien Polytech: Transformation de Laplace</td>
 </tr>
 <tr>           
   <td width="120">2017–2018</td>
@@ -42,6 +43,6 @@ nav_order: 2
   <td width="15"> </td>
   <td width="20"> L1</td>
   <td width="15"> </td>
-  <td width="600">Cours+TD: Suites et fonctions réelles, Université d'Orléans</td>
+  <td width="600">Cours+TD: Suites et fonctions réelles</td>
 </tr>
 </table>
