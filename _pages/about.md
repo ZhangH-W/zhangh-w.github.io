@@ -15,6 +15,8 @@ profile:
     <p>Krijgslaan 281, Building S8</p>
     <p>B9000, Ghent, Belgium</p>
     
+    <br>
+    
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -42,12 +44,12 @@ social: false  # includes social icons at the bottom of the page
 <br>
 
 #### Research interests
-<pre>
-• Harmonic analysis on noncompact symmetric spaces
-• Dispersive PDE on symmetric/locally symmetric spaces 
-• Spectral analysis on locally symmetric spaces
-• Asymptotic behavior of the heat semigroup on manifolds
-</pre>
+
+- Harmonic analysis on noncompact symmetric spaces
+- Dispersive PDE on symmetric/locally symmetric spaces
+- Spectral analysis on locally symmetric spaces
+- Asymptotic behavior of the heat semigroup on manifolds
+
 
 <br>  
 
