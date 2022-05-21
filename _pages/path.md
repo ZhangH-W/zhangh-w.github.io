@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-### Position
+#### Position
 
 <table style="table-layout:fixed;">
 <tr>           
@@ -26,7 +26,7 @@ nav_order: 2
 
 <br>
 
-### Education
+#### Education
 
 <table style="table-layout:fixed;">
 <tr>           
@@ -59,7 +59,7 @@ nav_order: 2
 
 <br>
 
-### Awards and Scholarships
+#### Awards and Scholarships
 
 - [`Chinese government award for outstanding self finance students abroad`](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad) (2020)
 - Doctoral scholarship from University of Orléans (2017–2020)
@@ -67,7 +67,7 @@ nav_order: 2
 
 <br>
 
-### Conference talks
+#### Conference talks
 
 <table style="table-layout:fixed;">
 <tr>           
@@ -118,7 +118,7 @@ nav_order: 2
 
 <br>
 
-### Seminar talks
+#### Seminar talks
 
 <table style="table-layout:fixed;">
 <tr>           
@@ -150,7 +150,7 @@ nav_order: 2
 
 <br>
 
-### Conferences and schools attended
+#### Conferences and schools attended
 
 <table style="table-layout:fixed;">
 <tr>           
