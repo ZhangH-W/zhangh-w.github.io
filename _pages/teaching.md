@@ -11,7 +11,6 @@ nav_order: 2
 <table style="table-layout:fixed;">
 <tr>           
   <td width="120">2019–2020</td>
-  <td width="10"> </td>
   <td width="20"> 48h</td>
   <td width="15"> </td>
   <td width="20"> L1</td>
@@ -20,7 +19,6 @@ nav_order: 2
 </tr>
 <tr>           
   <td width="120">2018–2019</td>
-  <td width="10"> </td>
   <td width="20"> 48h</td>
   <td width="15"> </td>
   <td width="20"> L1</td>
@@ -29,7 +27,6 @@ nav_order: 2
 </tr>
 <tr>           
   <td width="120"> </td>
-  <td width="10"> </td>
   <td width="20"> 16h</td>
   <td width="15"> </td>
   <td width="20"> A3</td>
@@ -38,7 +35,6 @@ nav_order: 2
 </tr>
 <tr>           
   <td width="120">2017–2018</td>
-  <td width="10"> </td>
   <td width="20"> 64h</td>
   <td width="15"> </td>
   <td width="20"> L1</td>
