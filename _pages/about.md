@@ -15,14 +15,13 @@ profile:
     <p>Krijgslaan 281, Building S8</p>
     <p>B9000, Ghent, Belgium</p>
     
-    <br>
-    
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-#### Present position
+<br>
+
 <table border="0">
  <tr>
     <td> Since 2021</td>
