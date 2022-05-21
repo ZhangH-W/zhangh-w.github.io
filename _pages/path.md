@@ -26,7 +26,7 @@ nav_order: 2
 
 <br>
 
-### Education
+#### Education
 
 <table style="table-layout:fixed;">
 <tr>           
