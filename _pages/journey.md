@@ -57,16 +57,10 @@ nav_order: 2
 </tr>
 
 <tr>           
-  <td heigh="50"> </td>
-  <td heigh="50"> </td>
-  <td heigh="50"> </td>
-</tr> 
- 
-<tr>           
-  <td heigh="50"> </td>
-  <td heigh="50"> </td>
-  <td heigh="50"> </td>
-</tr> 
+  <td width="150"> – </td>
+  <td width="10"> </td>
+  <td width="1500"> </td>
+</tr>  
   
 <tr>           
   <td width="150">2012–2013</td>
