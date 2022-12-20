@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+_Per aspera ad astra_
+
 #### Position
 
 <table style="table-layout:fixed;">
