@@ -2,7 +2,7 @@
 layout: page
 permalink: /Research/
 title: Research
-description: 2 preprints, 5 articles
+description: 2 preprints, 6 articles
 years: [preprint, 2023, 2022, 2021, 2020]
 nav: true
 nav_order: 2
