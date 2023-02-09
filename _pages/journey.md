@@ -202,12 +202,6 @@ _Per aspera ad astra_
                    <a href='https://www.mfo.de/occasion/2247b/www_view'>[link]</a></td>
 </tr>
 <tr>           
-  <td width="150">Nov. 2022</td>
-  <td width="10"> </td>
-  <td width="1500">	Oberwolfach Seminar: Operator-Adapted Spaces in Harmonic Analysis and PDEs
-                   <a href='https://www.mfo.de/occasion/2247b/www_view'>[link]</a></td>
-</tr>
-<tr>           
   <td width="150">Jun. 2022</td>
   <td width="10"> </td>
   <td width="1500">	Analyse: conférence en hommage à Jean Ginibre
