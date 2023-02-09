@@ -142,7 +142,17 @@ _Per aspera ad astra_
 
 <table style="table-layout:fixed;">
 <tr>           
-  <td width="150">May. 2021</td>
+  <td width="150">Apr. 2023</td>
+  <td width="10"> </td>
+  <td width="1500">(upcoming) Seminar Analysis and Applications, Delft, Netherlands</td>
+</tr>
+<tr>           
+  <td width="150">Feb. 2023</td>
+  <td width="10"> </td>
+  <td width="1500">(upcoming) Séminaire d’Analyse Fonctionnelle, Besançon, France</td>
+</tr>
+<tr>           
+  <td width="150">May 2021</td>
   <td width="10"> </td>
   <td width="1500">Jeudi Séminaire, Orléans, France</td>
 </tr>
@@ -173,6 +183,30 @@ _Per aspera ad astra_
 #### Conferences and schools attended
 
 <table style="table-layout:fixed;">
+<tr>           
+  <td width="150">Jul. 2023</td>
+  <td width="10"> </td>
+  <td width="1500">	(upcoming) Microlocal and probabilistic methods in geometry and dynamics
+                   <a href='https://school2023.sciencesconf.org'>[link]</a></td>
+</tr>
+<tr>           
+  <td width="150">Jun. 2023</td>
+  <td width="10"> </td>
+  <td width="1500">	(upcoming) Processes and heat kernels with symmetries
+                   <a href='https://www.lebesgue.fr/en/heat'>[link]</a></td>
+</tr>
+<tr>           
+  <td width="150">Nov. 2022</td>
+  <td width="10"> </td>
+  <td width="1500">	Operator-Adapted Spaces in Harmonic Analysis and PDEs
+                   <a href='https://www.mfo.de/occasion/2247b/www_view'>[link]</a></td>
+</tr>
+<tr>           
+  <td width="150">Nov. 2022</td>
+  <td width="10"> </td>
+  <td width="1500">	Oberwolfach Seminar: Operator-Adapted Spaces in Harmonic Analysis and PDEs
+                   <a href='https://www.mfo.de/occasion/2247b/www_view'>[link]</a></td>
+</tr>
 <tr>           
   <td width="150">Jun. 2022</td>
   <td width="10"> </td>
