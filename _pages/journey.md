@@ -94,13 +94,13 @@ _Per aspera ad astra_
   <td width="150">Apr. 2023</td>
   <td width="10"> </td>
   <td width="1500">Journées SL2R, Reims, France
-                   <a href='https://math.uni-paderborn.de/conferences/sdlss'>[link]</a></td>
+                   <a href='https://indico.math.cnrs.fr/event/9462/'>[link]</a></td>
 </tr>
 <tr>           
   <td width="150">Feb. 2022</td>
   <td width="10"> </td>
   <td width="1500">Spectra and dynamics on (locally) symmetric spaces, Paderborn, Germany
-                   <a href='https://indico.math.cnrs.fr/event/9462/'>[link]</a></td>
+                   <a href='https://math.uni-paderborn.de/conferences/sdlss'>[link]</a></td>
 </tr>
 <tr>           
   <td width="150">Dec. 2021</td>
