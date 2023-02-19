@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='mailto:hongwei.zhang@ugent.be'>[email]</a>
-          hongwei.zhang at ugent.be
+subtitle: hongwei.zhang at ugent dot be <br />
+          zhw.dimn at gmail dot com
 
 profile:
   align: right
