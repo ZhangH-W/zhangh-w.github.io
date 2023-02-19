@@ -93,7 +93,7 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Apr. 2023</td>
   <td width="10"> </td>
-  <td width="1500">Journées SL2R, Reims, France
+  <td width="1500">(upcoming) Journées SL2R, Reims, France
                    <a href='https://indico.math.cnrs.fr/event/9462/'>[link]</a></td>
 </tr>
 <tr>           
