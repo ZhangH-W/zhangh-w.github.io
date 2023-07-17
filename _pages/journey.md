@@ -13,7 +13,7 @@ _Per aspera ad astra_
 
 <table style="table-layout:fixed;">
 <tr>           
-  <td width="150"> Apr. 2021-Jun.2023 </td>
+  <td width="200"> Apr. 2021-Jun.2023 </td>
   <td width="10"> </td>
   <td width="1500">
     Postdoctoral researcher, Ghent University, Belgium</td>
