@@ -48,6 +48,11 @@ _Per aspera ad astra_
   <td width="1500"> </td>
 </tr> 
 <tr>           
+  <td width="150"> </td>
+  <td width="10"> </td>
+  <td width="1500"> </td>
+</tr> 
+<tr>           
   <td width="300"> Apr. 2021-Jun. 2023 </td>
   <td width="10"> </td>
   <td width="1500">
@@ -98,6 +103,7 @@ _Per aspera ad astra_
   <td width="10"> </td>
   <td width="1500">B.S. in Mathematics, University of Orléans, France</td>
 </tr>
+</table>
 
 <br>
 
