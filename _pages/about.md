@@ -26,7 +26,7 @@ social: false  # includes social icons at the bottom of the page
 <table border="0">
  <tr>
     <td> Since July 2023 </td>       
-    <td> &nbsp&nbsp&nbsp&nbsp </td> 
+    <td> &nbsp;&nbsp;&nbsp;&nbsp; </td> 
     <td> Postdoctoral researcher</td>
  </tr>
  <tr>
