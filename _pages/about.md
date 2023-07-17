@@ -9,8 +9,8 @@ profile:
   align: right
   image: Profil.jpeg
   address: >
-    <p>University of Paderborn</p>
-    <p>Faculty EIM, Institute for Mathematics</p>
+    <p>Universität Paderborn</p>
+    <p>Fakultät EIM, Institut für Mathematik</p>
     <p>Office: J2 302</p>
     <p>Warburger Str. 100</p>
     <p>33098, Paderborn, Germany</p>
@@ -25,9 +25,13 @@ social: false  # includes social icons at the bottom of the page
 
 <table border="0">
  <tr>
+    <td> Since July 2023 </td>       
+    <td> &nbsp&nbsp&nbsp&nbsp </td> 
     <td> Postdoctoral researcher</td>
  </tr>
  <tr>
+    <td> </td>       
+    <td> &nbsp&nbsp&nbsp&nbsp </td>
     <td> Paderborn University </td>
  </tr>
 </table>
