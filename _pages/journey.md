@@ -43,6 +43,11 @@ _Per aspera ad astra_
           and <a href="https://www.uni-paderborn.de/person/45027">Lasse Wolf</a></td>
 </tr> 
 <tr>           
+  <td width="150"> </td>
+  <td width="10"> </td>
+  <td width="1500"> </td>
+</tr> 
+<tr>           
   <td width="300"> Apr. 2021-Jun. 2023 </td>
   <td width="10"> </td>
   <td width="1500">
@@ -93,25 +98,6 @@ _Per aspera ad astra_
   <td width="10"> </td>
   <td width="1500">B.S. in Mathematics, University of Orléans, France</td>
 </tr>
-
-<tr>           
-  <td width="150"> – </td>
-  <td width="10"> </td>
-  <td width="1500"> </td>
-</tr>  
-  
-<tr>           
-  <td width="150">2012–2013</td>
-  <td width="10"> </td>
-  <td width="1500">French Language School, University Savoie Mont Blanc, Chambéry, France</td>
-</tr>    
-  
-<tr>           
-  <td width="150">2007–2011</td>
-  <td width="10"> </td>
-  <td width="1500">B.S. in Management, Dalian Polytechnic University, China</td>
-</tr>   
-</table>
 
 <br>
 
