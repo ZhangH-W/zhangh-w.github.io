@@ -49,8 +49,8 @@ social: false  # includes social icons at the bottom of the page
     <td> </td>       
     <td> &nbsp; </td>
     <td> together with 
-          <a href="https://www.math.uni-bonn.de/people/blomer/">Valentin Blomer</a>
-          <a href=https://math.uni-paderborn.de/ag/arbeitsgruppe-spektralanalysis/">Tobias Weich</a>
+          <a href="https://www.math.uni-bonn.de/people/blomer/">Valentin Blomer</a>,
+          <a href="https://math.uni-paderborn.de/ag/arbeitsgruppe-spektralanalysis/">Tobias Weich</a>,
           and <a href="https://www.uni-paderborn.de/person/45027">Lasse Wolf</a>
     </td>
  </tr>
