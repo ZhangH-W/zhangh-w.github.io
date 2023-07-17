@@ -42,7 +42,7 @@ social: false  # includes social icons at the bottom of the page
     <td> </td>       
     <td> &nbsp;&nbsp;&nbsp;&nbsp; </td>
     <td> working on 
-          <a href="https://trr358.math.uni-bielefeld.de/projects/view/B2">Project B2: Spectral theory in higher rank and infinite volume</a>
+          <a href="https://trr358.math.uni-bielefeld.de/projects/view/B2">Project B2: Spectral Theory in Higher Rank and Infinite Volume</a>
     </td>
  </tr>
  <tr>
