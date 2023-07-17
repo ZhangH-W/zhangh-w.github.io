@@ -78,7 +78,7 @@ _Per aspera ad astra_
 
 <table style="table-layout:fixed;">
 <tr>           
-  <td width="150">2017–2020</td>
+  <td width="300">Oct. 2017–Dec. 2020</td>
   <td width="10"> </td>
   <td width="1500">
     Ph.D. in Mathematics, University of Orléans, France
@@ -93,13 +93,13 @@ _Per aspera ad astra_
 </tr>
 
 <tr>           
-  <td width="150">2015–2017</td>
+  <td width="300">2015–2017</td>
   <td width="10"> </td>
   <td width="1500">M.S. in Mathematics, University of Paris-Saclay, Orsay, France</td>
 </tr>  
 
 <tr>           
-  <td width="150">2013–2015</td>
+  <td width="300">2013–2015</td>
   <td width="10"> </td>
   <td width="1500">B.S. in Mathematics, University of Orléans, France</td>
 </tr>
