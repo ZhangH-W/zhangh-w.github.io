@@ -2,18 +2,19 @@
 layout: about
 title: About
 permalink: /
-subtitle: hongwei.zhang at ugent dot be <br />
+subtitle: zhongwei at math.uni-paderborn dot de <br />
           zhw.dimn at gmail dot com
 
 profile:
   align: right
   image: Profil.jpeg
   address: >
-    <p>Department of Mathematics</p>
-    <p>Anal. Logic & Disc. Math. 
-    <p>Ghent University</p>
-    <p>Krijgslaan 281, S8</p>
-    <p>B9000, Ghent, Belgium</p>
+    <p>University of Paderborn</p>
+    <p>Faculty EIM, Institute for Mathematics</p>
+    <p>Office: J2 302</p>
+    <p>Warburger Str. 100</p>
+    <p>33098, Paderborn, Germany</p>
+    
     
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,19 +25,10 @@ social: false  # includes social icons at the bottom of the page
 
 <table border="0">
  <tr>
-    <td> Since 2021</td>
-    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td> Postdoctoral researcher</td>
  </tr>
  <tr>
-    <td> </td>
-    <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td><a href='https://analysis-pde.org/'>Analysis & PDE Center</a></td>
- </tr>
- <tr>
-    <td> </td>
-           <td> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>Ghent University, Belgium</td>  
+    <td> Paderborn University </td>
  </tr>
 </table>
 
