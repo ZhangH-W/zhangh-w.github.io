@@ -26,13 +26,26 @@ social: false  # includes social icons at the bottom of the page
 <table border="0">
  <tr>
     <td> Since July 2023 </td>       
-    <td> &nbsp;&nbsp;&nbsp;&nbsp; </td> 
-    <td> Postdoctoral researcher</td>
+    <td> &nbsp; </td> 
+    <td> Postdoctoral researcher, Paderborn University</td>
  </tr>
  <tr>
     <td> </td>       
-    <td> &nbsp&nbsp&nbsp&nbsp </td>
-    <td> Paderborn University </td>
+    <td> &nbsp; </td> 
+    <td> member of [AG Spektralanalysis](https://math.uni-paderborn.de/en/ag/research-group-spectral-analysis)
+              and [CRC TRR 358](https://trr358.math.uni-bielefeld.de/Pages/aboutUs) </td>
+ </tr>      
+ <tr>
+    <td> </td>       
+    <td> &nbsp; </td>
+    <td> working on [Project B2: Spectral theory in higher rank and infinite volume](https://trr358.math.uni-bielefeld.de/projects/view/B2) </td>
+ </tr>
+ <tr>
+    <td> </td>       
+    <td> &nbsp; </td>
+    <td> together with [Valentin Blomer](https://www.math.uni-bonn.de/people/blomer/)
+                        [Tobias Weich](https://math.uni-paderborn.de/ag/arbeitsgruppe-spektralanalysis/)
+                    and [Lasse Wolf](https://www.uni-paderborn.de/person/45027)</td>
  </tr>
 </table>
 
