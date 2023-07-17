@@ -26,12 +26,12 @@ social: false  # includes social icons at the bottom of the page
 <table border="0">
  <tr>
     <td> Since July 2023 </td>       
-    <td> &nbsp;&nbsp; </td> 
+    <td> &nbsp;&nbsp;&nbsp; </td> 
     <td> Postdoctoral researcher, Paderborn University</td>
  </tr>
  <tr>
     <td> </td>       
-    <td> &nbsp;&nbsp; </td> 
+    <td> &nbsp;&nbsp;&nbsp; </td> 
     <td> member of 
           <a href="https://math.uni-paderborn.de/en/ag/research-group-spectral-analysis">AG Spektralanalysis</a>
            and
@@ -40,14 +40,14 @@ social: false  # includes social icons at the bottom of the page
  </tr>      
  <tr>
     <td> </td>       
-    <td> &nbsp;&nbsp; </td>
+    <td> &nbsp;&nbsp;&nbsp; </td>
     <td> working on 
           <a href="https://trr358.math.uni-bielefeld.de/projects/view/B2">Project B2: Spectral theory in higher rank and infinite volume</a>
     </td>
  </tr>
  <tr>
     <td> </td>       
-    <td> &nbsp;&nbsp; </td>
+    <td> &nbsp;&nbsp;&nbsp; </td>
     <td> together with 
           <a href="https://www.math.uni-bonn.de/people/blomer/">Valentin Blomer</a>,
           <a href="https://math.uni-paderborn.de/ag/arbeitsgruppe-spektralanalysis/">Tobias Weich</a>,
