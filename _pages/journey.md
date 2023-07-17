@@ -13,11 +13,17 @@ _Per aspera ad astra_
 
 <table style="table-layout:fixed;">
 <tr>           
-  <td width="150">Since 2021</td>
+  <td width="150"> Apr. 2021-Jun.2023 </td>
   <td width="10"> </td>
   <td width="1500">
-    Postdoctoral researcher, Analysis & PDE Center, Ghent University, Belgium</td>
+    Postdoctoral researcher, Ghent University, Belgium</td>
 </tr>
+<tr>           
+  <td width="150"> </td>
+  <td width="10"> </td>
+  <td width="1500">
+    member of <a href="https://analysis-pde.org/">Analysis & PDE Center</a></td>
+</tr> 
 <tr>           
   <td width="150"> </td>
   <td width="10"> </td>
@@ -93,7 +99,7 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Apr. 2023</td>
   <td width="10"> </td>
-  <td width="1500">(upcoming) Journées SL2R, Reims, France
+  <td width="1500"> Journées SL2R, Reims, France
                    <a href='https://indico.math.cnrs.fr/event/9462/'>[link]</a></td>
 </tr>
 <tr>           
@@ -148,14 +154,24 @@ _Per aspera ad astra_
 
 <table style="table-layout:fixed;">
 <tr>           
+  <td width="150">Jun. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> Groupe de travail équations aux dérivées partielles, Créteil, France</td>
+</tr>
+<tr>           
   <td width="150">Apr. 2023</td>
   <td width="10"> </td>
-  <td width="1500">(upcoming) Seminar Analysis and Applications, Delft, Netherlands</td>
+  <td width="1500"> Geometric and Harmonic Analysis Seminar, Paderborn, Germany</td>
+</tr>
+<tr>           
+  <td width="150">Apr. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> Seminar Analysis and Applications, Delft, Netherlands</td>
 </tr>
 <tr>           
   <td width="150">Feb. 2023</td>
   <td width="10"> </td>
-  <td width="1500">(upcoming) Séminaire d’Analyse Fonctionnelle, Besançon, France</td>
+  <td width="1500"> Séminaire d’Analyse Fonctionnelle, Besançon, France</td>
 </tr>
 <tr>           
   <td width="150">May 2021</td>
@@ -192,13 +208,13 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Jul. 2023</td>
   <td width="10"> </td>
-  <td width="1500">	(upcoming) Microlocal and probabilistic methods in geometry and dynamics
+  <td width="1500"> Microlocal and probabilistic methods in geometry and dynamics
                    <a href='https://school2023.sciencesconf.org'>[link]</a></td>
 </tr>
 <tr>           
   <td width="150">Jun. 2023</td>
   <td width="10"> </td>
-  <td width="1500">	(upcoming) Processes and heat kernels with symmetries
+  <td width="1500"> Processes and heat kernels with symmetries
                    <a href='https://www.lebesgue.fr/en/heat'>[link]</a></td>
 </tr>
 <tr>           
