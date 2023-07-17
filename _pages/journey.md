@@ -13,6 +13,36 @@ _Per aspera ad astra_
 
 <table style="table-layout:fixed;">
 <tr>           
+  <td width="300"> Since July 2023 </td>
+  <td width="10"> </td>
+  <td width="1500">
+    Postdoctoral researcher, Paderborn University, Germany</td>
+</tr>
+<tr>           
+  <td width="150"> </td>
+  <td width="10"> </td>
+  <td width="1500">
+    member of <a href="https://math.uni-paderborn.de/en/ag/research-group-spectral-analysis">AG Spektralanalysis</a>
+           and
+          <a href="https://trr358.math.uni-bielefeld.de/Pages/aboutUs">CRC TRR 358</a></td>
+</tr> 
+<tr>           
+  <td width="150"> </td>
+  <td width="10"> </td>
+  <td width="1500">
+    working on 
+          <a href="https://trr358.math.uni-bielefeld.de/projects/view/B2">Project B2: Spectral theory in higher rank and infinite volume</a>
+</tr> 
+<tr>           
+  <td width="150"> </td>
+  <td width="10"> </td>
+  <td width="1500">
+    together with 
+          <a href="https://www.math.uni-bonn.de/people/blomer/">Valentin Blomer</a>,
+          <a href="https://math.uni-paderborn.de/ag/arbeitsgruppe-spektralanalysis/">Tobias Weich</a>,
+          and <a href="https://www.uni-paderborn.de/person/45027">Lasse Wolf</a>
+</tr> 
+<tr>           
   <td width="300"> Apr. 2021-Jun. 2023 </td>
   <td width="10"> </td>
   <td width="1500">
