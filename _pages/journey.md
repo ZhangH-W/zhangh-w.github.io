@@ -119,6 +119,12 @@ _Per aspera ad astra_
 
 <table style="table-layout:fixed;">
 <tr>           
+  <td width="150">Jan. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> III Young Researchers Workshop in Harmonic Analysis, Genova, Italy
+                   <a href='https://sites.google.com/view/3yrwha24-genova/home?authuser=0/'>[link]</a></td>
+</tr>
+<tr>           
   <td width="150">Apr. 2023</td>
   <td width="10"> </td>
   <td width="1500"> Journées SL2R, Reims, France
@@ -175,6 +181,16 @@ _Per aspera ad astra_
 #### Seminar talks
 
 <table style="table-layout:fixed;">
+<tr>           
+  <td width="150">Dec. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> Séminaire d’Analyse Fonctionnelle, Besançon, France</td>
+</tr>
+<tr>           
+  <td width="150">Jul. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> Summer seminars on functional analysis, Harbin, China</td>
+</tr>
 <tr>           
   <td width="150">Jun. 2023</td>
   <td width="10"> </td>
