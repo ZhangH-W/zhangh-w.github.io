@@ -7,7 +7,7 @@ subtitle: zhongwei at math.uni-paderborn dot de <br />
 
 profile:
   align: right
-  image: Profil.jpeg
+  image: Profil.jpg
   address: >
     <p>Universität Paderborn</p>
     <p>Fakultät EIM, Institut für Mathematik</p>
