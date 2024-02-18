@@ -10,7 +10,7 @@ profile:
   image: Profil.jpg
   address: >
     <p>Universität Paderborn</p>
-    <p>Fakultät EIM, Institut für Mathematik</p>
+    <p>Institut für Mathematik</p>
     <p>Office: J2 302</p>
     <p>Warburger Str. 100</p>
     <p>33098, Paderborn, Germany</p>
