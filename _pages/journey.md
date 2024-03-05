@@ -111,7 +111,7 @@ _Per aspera ad astra_
 
 - [`Chinese government award for outstanding self finance students abroad`](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad) (2020)
 - Doctoral scholarship from University of Orléans (2017–2020)
-- [`Sophie Germain master’s scholarship`](https://www.fondation-hadamard.fr/en/master-master-scholarship/master-491-call-applications) (2015-2017) 
+- [`Sophie Germain master’s scholarship`](https://www.fondation-hadamard.fr/en/our-programs/transversal-programs/graduate-program/) (2015-2017) 
 
 <br>
 
