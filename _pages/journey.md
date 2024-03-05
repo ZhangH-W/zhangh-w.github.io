@@ -121,20 +121,17 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Jan. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> III Young Researchers Workshop in Harmonic Analysis, Genova, Italy
-                   <a href='https://sites.google.com/view/3yrwha24-genova/home?authuser=0/'>[link]</a></td>
+  <td width="1500"> III Young Researchers Workshop in Harmonic Analysis, Genova, Italy</td>
 </tr>
 <tr>           
   <td width="150">Apr. 2023</td>
   <td width="10"> </td>
-  <td width="1500"> Journées SL2R, Reims, France
-                   <a href='https://indico.math.cnrs.fr/event/9462/'>[link]</a></td>
+  <td width="1500"> Journées SL2R, Reims, France</td>
 </tr>
 <tr>           
   <td width="150">Feb. 2022</td>
   <td width="10"> </td>
-  <td width="1500">Spectra and dynamics on (locally) symmetric spaces, Paderborn, Germany
-                   <a href='https://math.uni-paderborn.de/conferences/sdlss'>[link]</a></td>
+  <td width="1500">Spectra and dynamics on (locally) symmetric spaces, Paderborn, Germany</td>
 </tr>
 <tr>           
   <td width="150">Dec. 2021</td>
@@ -144,26 +141,18 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Oct. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Modern analysis related to root systems with applications, CIRM, France
-                   <a href='https://conferences.cirm-math.fr/2404.html'>[link]</a></td>
+  <td width="1500">Modern analysis related to root systems with applications, CIRM, France</a></td>
 </tr>  
 <tr>           
   <td width="150">Jul. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Analyse harmonique et EDP, Evry, France
-    <a href='https://analyse-et-edp.sciencesconf.org/resource/page/id/1'>[link]</a></td>
+  <td width="1500">Analyse harmonique et EDP, Evry, France</a></td>
 </tr>  
 <tr>           
   <td width="150">Mar. 2021</td>
   <td width="10"> </td>
-  <td width="1500">AMS Spring eastern sectional meeting, Brown University, USA (online)
-                   <a href='https://www.ams.org/meetings/sectional/2284_program_ss16.html'>[link]</a></td>
+  <td width="1500">AMS Spring eastern sectional meeting, Brown University, USA (online)</td>
 </tr>  
-<tr>           
-  <td width="150">Feb. 2020</td>
-  <td width="10"> </td>
-  <td width="1500">Qilu youth forum, Shandong University, China (online)</td>
-</tr>    
 <tr>           
   <td width="150">Jan. 2020</td>
   <td width="10"> </td>
@@ -181,6 +170,21 @@ _Per aspera ad astra_
 #### Seminar talks
 
 <table style="table-layout:fixed;">
+<tr>           
+  <td width="150">Apr. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> (Upcoming), Sun Yat-sen University, China</td>
+</tr>
+<tr>           
+  <td width="150">Mar. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> (Upcoming), Beijing Normal University, China</td>
+</tr>
+<tr>           
+  <td width="150">Mar. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> (Upcoming), ShanghaiTech University, China</td>
+</tr>
 <tr>           
   <td width="150">Dec. 2023</td>
   <td width="10"> </td>
@@ -240,85 +244,67 @@ _Per aspera ad astra_
 
 <br>
 
-#### Conferences and schools attended
+#### Conferences attended
 
 <table style="table-layout:fixed;">
 <tr>           
   <td width="150">Jul. 2023</td>
   <td width="10"> </td>
-  <td width="1500"> Microlocal and probabilistic methods in geometry and dynamics
-                   <a href='https://school2023.sciencesconf.org'>[link]</a></td>
+  <td width="1500"> Microlocal and probabilistic methods in geometry and dynamics</td>
 </tr>
 <tr>           
   <td width="150">Jun. 2023</td>
   <td width="10"> </td>
-  <td width="1500"> Processes and heat kernels with symmetries
-                   <a href='https://www.lebesgue.fr/en/heat'>[link]</a></td>
+  <td width="1500"> Processes and heat kernels with symmetries</td>
 </tr>
 <tr>           
   <td width="150">Nov. 2022</td>
   <td width="10"> </td>
-  <td width="1500">	Operator-Adapted Spaces in Harmonic Analysis and PDEs
-                   <a href='https://www.mfo.de/occasion/2247b/www_view'>[link]</a></td>
+  <td width="1500">	Operator-Adapted Spaces in Harmonic Analysis and PDEs</td>
 </tr>
 <tr>           
   <td width="150">Jun. 2022</td>
   <td width="10"> </td>
-  <td width="1500">	Analyse: conférence en hommage à Jean Ginibre
-                   <a href='https://hommageginibre.sciencesconf.org/?forward-action=index&forward-controller=index&lang=fr'>[link]</a></td>
+  <td width="1500">	Analyse: conférence en hommage à Jean Ginibre</td>
 </tr>
 <tr>           
   <td width="150">May. 2022</td>
   <td width="10"> </td>
-  <td width="1500">Trends in calculus of variations and PDEs, Sussex&Ghent, UK&Belgium (online)
-                   <a href='https://sites.google.com/view/tcvpde-2022/home'>[link]</a></td>
+  <td width="1500">Trends in calculus of variations and PDEs, Sussex&Ghent, UK&Belgium (online)</td>
 </tr>
 <tr>           
   <td width="150">Mar. 2022</td>
   <td width="10"> </td>
-  <td width="1500">Geometric analysis on manifolds, fractals and metric spaces, Yamagata, Japan (online)
-                   <a href='https://www.math.uni-bielefeld.de/~grigor/workshop.htm'>[link]</a></td>
+  <td width="1500">Geometric analysis on manifolds, fractals and metric spaces, Yamagata, Japan (online)</td>
 </tr>
 <tr>           
   <td width="150">Oct. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Harmonic Analysis and symmetric spaces, Madison, USA (online)
-                   <a href='https://sites.google.com/view/hass21/home'>[link]</a></td>
+  <td width="1500">Harmonic Analysis and symmetric spaces, Madison, USA (online)</td>
 </tr>
 <tr>           
   <td width="150">Sep. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Hyperbolic dynamical systems and resonances, Porquerolles, France
-                   <a href='https://www.imo.universite-paris-saclay.fr/~guillarmou/participants.html'>[link]</a></td>
+  <td width="1500">Hyperbolic dynamical systems and resonances, Porquerolles, France</td>
 </tr>
 <tr>           
   <td width="150">Jun. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Analyse et EDP Conférence en l’honneur de Patrick Gérard, Orsay, France
-                   <a href='https://pgerard60ans.sciencesconf.org'>[link]</a></td>
+  <td width="1500">Analyse et EDP Conférence en l’honneur de Patrick Gérard, Orsay, France</td>
 </tr>
 <tr>           
   <td width="150">Sep. 2020</td>
   <td width="10"> </td>
-  <td width="1500">Noncommutative analysis, Ghent, Belgium (online)
-                   <a href='https://analysis-pde.org/noncommutative-conference/'>[link]</a></td>
+  <td width="1500">Noncommutative analysis, Ghent, Belgium (online)</td>
 </tr>  
 <tr>           
   <td width="150">Mar. 2019</td>
   <td width="10"> </td>
-  <td width="1500">Les 60 ans de Jean-Yves Chemin, Paris, France
-                  <a href='https://j-ychemin60ans.sciencesconf.org'>[link]</a></td>
+  <td width="1500">Les 60 ans de Jean-Yves Chemin, Paris, France</td>
 </tr>
 <tr>           
   <td width="150">Nov. 2018</td>
   <td width="10"> </td>
-  <td width="1500">Analyse des EDP, Paris, France
-                  <a href='https://robbiano2018.sciencesconf.org'>[link]</a></td>
-</tr>
-<tr>           
-  <td width="150">Jun. 2017</td>
-  <td width="10"> </td>
-  <td width="1500">School: Contemporary perspectives in geometry, Strasbourg, France
-                   <a href='http://irma.math.unistra.fr/article1606.html'>[link]</a></td>
+  <td width="1500">Analyse des EDP, Paris, France</td>
 </tr>
 </table>
