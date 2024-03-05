@@ -141,12 +141,12 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Oct. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Modern analysis related to root systems with applications, CIRM, France</a></td>
+  <td width="1500">Modern analysis related to root systems with applications, CIRM, France</td>
 </tr>  
 <tr>           
   <td width="150">Jul. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Analyse harmonique et EDP, Evry, France</a></td>
+  <td width="1500">Analyse harmonique et EDP, Evry, France</td>
 </tr>  
 <tr>           
   <td width="150">Mar. 2021</td>
