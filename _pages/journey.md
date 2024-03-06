@@ -186,6 +186,11 @@ _Per aspera ad astra_
   <td width="1500"> (Upcoming), ShanghaiTech University, China</td>
 </tr>
 <tr>           
+  <td width="150">Jan. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Oberseminar Geometric Analysis, Bielefeld, Germany</td>
+</tr>
+<tr>           
   <td width="150">Dec. 2023</td>
   <td width="10"> </td>
   <td width="1500"> Séminaire d’Analyse Fonctionnelle, Besançon, France</td>
