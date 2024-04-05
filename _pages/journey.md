@@ -173,7 +173,7 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Apr. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> Sun Yat-sen University, China</td>
+  <td width="1500"> Seminar, Sun Yat-sen University, China</td>
 </tr>
 <tr>           
   <td width="150">Apr. 2024</td>
