@@ -173,17 +173,32 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Apr. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> (Upcoming), Sun Yat-sen University, China</td>
+  <td width="1500"> Sun Yat-sen University, China</td>
+</tr>
+<tr>           
+  <td width="150">Apr. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Seminar, Institute for Advanced Study in Mathematics, Harbin Institute of Technology, China</td>
+</tr>
+<tr>           
+  <td width="150">Apr. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Seminar, Tianjin Center for Applied Mathematics, Tianjin University, China</td>
 </tr>
 <tr>           
   <td width="150">Mar. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> (Upcoming), Beijing Normal University, China</td>
+  <td width="1500"> Seminar, Beijing Normal University, China</td>
 </tr>
 <tr>           
   <td width="150">Mar. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> (Upcoming), ShanghaiTech University, China</td>
+  <td width="1500"> Seminar, Academy for Multidisciplinary Studies, Capital Normal University, China</td>
+</tr>
+<tr>           
+  <td width="150">Mar. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Seminar, ShanghaiTech University, China</td>
 </tr>
 <tr>           
   <td width="150">Jan. 2024</td>
