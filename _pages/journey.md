@@ -180,7 +180,9 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Apr. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> Institute for Advanced Study in Mathematics, Harbin Institute of Technology, China</td>
+  <td width="150">China, Harbin</td>
+  <td width="10"> </td>
+  <td width="1500"> Institute for Advanced Study in Mathematics, Harbin Institute of Technology</td>
 </tr>
 <tr>           
   <td width="150">Apr. 2024</td>
