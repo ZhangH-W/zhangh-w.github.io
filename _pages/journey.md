@@ -248,17 +248,12 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Feb. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Logic and Analysis Seminar, Ghent, Belgium</td>
-</tr>
-<tr>           
-  <td width="150">Feb. 2021</td>
-  <td width="10"> </td>
-  <td width="1500">Methusalem Junior Seminar, Ghent, Belgium</td>
+  <td width="1500"> Universiteit Gent, Belgium</td>
 </tr>
 <tr>           
   <td width="150">Nov. 2018</td>
   <td width="10"> </td>
-  <td width="1500">Journée des Doctorants, Orléans, France</td>
+  <td width="1500"> Université d'Orléans, France</td>
 </tr>  
 </table>
 
