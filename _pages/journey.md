@@ -173,77 +173,77 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Apr. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> Seminar, Sun Yat-sen University, China</td>
+  <td width="1500"> Sun Yat-sen University, Guangzhou, China</td>
 </tr>
 <tr>           
   <td width="150">Apr. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> Seminar, Institute for Advanced Study in Mathematics, Harbin Institute of Technology, China</td>
+  <td width="1500"> Institute for Advanced Study in Mathematics, Harbin Institute of Technology, China</td>
 </tr>
 <tr>           
   <td width="150">Apr. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> Seminar, Tianjin Center for Applied Mathematics, Tianjin University, China</td>
+  <td width="1500"> Tianjin Center for Applied Mathematics, Tianjin University, China</td>
 </tr>
 <tr>           
   <td width="150">Mar. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> Seminar, Beijing Normal University, China</td>
+  <td width="1500"> Beijing Normal University, China</td>
 </tr>
 <tr>           
   <td width="150">Mar. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> Seminar, Academy for Multidisciplinary Studies, Capital Normal University, China</td>
+  <td width="1500"> Academy for Multidisciplinary Studies, Capital Normal University, Beijing, China</td>
 </tr>
 <tr>           
   <td width="150">Mar. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> Seminar, ShanghaiTech University, China</td>
+  <td width="1500"> ShanghaiTech University, China</td>
 </tr>
 <tr>           
   <td width="150">Jan. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> Oberseminar Geometric Analysis, Bielefeld, Germany</td>
+  <td width="1500"> Universität Bielefeld, Germany</td>
 </tr>
 <tr>           
   <td width="150">Dec. 2023</td>
   <td width="10"> </td>
-  <td width="1500"> Séminaire d’Analyse Fonctionnelle, Besançon, France</td>
+  <td width="1500"> Université de Franche-Comté, Besançon, France</td>
 </tr>
 <tr>           
   <td width="150">Jul. 2023</td>
   <td width="10"> </td>
-  <td width="1500"> Summer seminars on functional analysis, Harbin, China</td>
+  <td width="1500"> Institute for Advanced Study in Mathematics, Harbin Institute of Technology, China</td>
 </tr>
 <tr>           
   <td width="150">Jun. 2023</td>
   <td width="10"> </td>
-  <td width="1500"> Groupe de travail équations aux dérivées partielles, Créteil, France</td>
+  <td width="1500"> Université Paris-Est Créteil, Paris, France</td>
 </tr>
 <tr>           
   <td width="150">Apr. 2023</td>
   <td width="10"> </td>
-  <td width="1500"> Geometric and Harmonic Analysis Seminar, Paderborn, Germany</td>
+  <td width="1500"> Universität Paderborn, Germany</td>
 </tr>
 <tr>           
   <td width="150">Apr. 2023</td>
   <td width="10"> </td>
-  <td width="1500"> Seminar Analysis and Applications, Delft, Netherlands</td>
+  <td width="1500"> Technische Universiteit Delft, Netherlands</td>
 </tr>
 <tr>           
   <td width="150">Feb. 2023</td>
   <td width="10"> </td>
-  <td width="1500"> Séminaire d’Analyse Fonctionnelle, Besançon, France</td>
+  <td width="1500"> Université de Franche-Comté, Besançon, France</td>
 </tr>
 <tr>           
   <td width="150">May 2021</td>
   <td width="10"> </td>
-  <td width="1500">Jeudi Séminaire, Orléans, France</td>
+  <td width="1500"> Université d'Orléans, France</td>
 </tr>
 <tr>           
   <td width="150">Mar. 2021</td>
   <td width="10"> </td>
-  <td width="1500">Séminaire des Doctorants, Orsay, France</td>
+  <td width="1500"> Université Paris-Saclay, Orsay, France</td>
 </tr>
 <tr>           
   <td width="150">Feb. 2021</td>
