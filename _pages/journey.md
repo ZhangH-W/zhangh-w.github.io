@@ -173,7 +173,7 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Apr. 2024</td>
   <td width="10"> </td>
-  <td width="300">China, Guangzhou</td>
+  <td width="150">China, Guangzhou</td>
   <td width="10"> </td>
   <td width="1500"> Sun Yat-sen University</td>
 </tr>
