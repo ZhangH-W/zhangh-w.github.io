@@ -173,16 +173,12 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Apr. 2024</td>
   <td width="10"> </td>
-  <td width="150">China, Guangzhou</td>
-  <td width="10"> </td>
-  <td width="1500"> Sun Yat-sen University</td>
+  <td width="1500"> Sun Yat-sen University, Guangzhou, China</td>
 </tr>
 <tr>           
   <td width="150">Apr. 2024</td>
   <td width="10"> </td>
-  <td width="150">China, Harbin</td>
-  <td width="10"> </td>
-  <td width="1500"> Institute for Advanced Study in Mathematics, Harbin Institute of Technology</td>
+  <td width="1500"> Institute for Advanced Study in Mathematics, Harbin Institute of Technology, China</td>
 </tr>
 <tr>           
   <td width="150">Apr. 2024</td>
@@ -222,7 +218,7 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Jun. 2023</td>
   <td width="10"> </td>
-  <td width="1500"> Université Paris-Est Créteil, Paris, France</td>
+  <td width="1500"> Université Paris-Est Créteil, France</td>
 </tr>
 <tr>           
   <td width="150">Apr. 2023</td>
@@ -247,7 +243,7 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Mar. 2021</td>
   <td width="10"> </td>
-  <td width="1500"> Université Paris-Saclay, Orsay, France</td>
+  <td width="1500"> Université Paris-Saclay, France</td>
 </tr>
 <tr>           
   <td width="150">Feb. 2021</td>
