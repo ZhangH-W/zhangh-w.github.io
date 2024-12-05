@@ -9,7 +9,7 @@ nav_order: 2
 
 _Per aspera ad astra_
 
-#### Position
+#### POSITION
 
 <table style="table-layout:fixed;">
 <tr>           
@@ -65,7 +65,7 @@ _Per aspera ad astra_
 
 <br>
 
-#### Education
+#### EDUCATION
 
 <table style="table-layout:fixed;">
 <tr>           
@@ -111,7 +111,7 @@ _Per aspera ad astra_
 
 <br>
 
-#### Awards and Scholarships
+#### AWARDS AND SCHOLARSHIPS
 
 - [`Chinese government award for outstanding self finance students abroad`](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad) (2020)
 - Doctoral scholarship from University of Orléans (2017–2020)
@@ -119,22 +119,9 @@ _Per aspera ad astra_
 
 <br>
 
-#### Activities
+#### ACTIVITIES
 
-C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
-
-<table style="table-layout:fixed;">
-<tr>      
-  <td align="right" width="150">Jan. 2024</td>
-  <td align="center" width="10">C</td>
-  <td align="center" width="200">Genova, Italy</td>
-  <td align="left" width="1100"> 
-  III Young Researchers Workshop in Harmonic Analysis</td>
-</tr>
-</table>
-
-
-<br>
+##### Conferences
 <table style="table-layout:fixed;">
 <tr>           
   <td width="150">Apr. 2023</td>
@@ -180,8 +167,9 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 
 <br>
 
-#### Seminar talks
+##### Visits
 
+##### Seminars
 <table style="table-layout:fixed;">
 <tr>           
   <td width="150">Apr. 2024</td>
@@ -272,7 +260,7 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 
 <br>
 
-#### Conferences attended
+##### Conferences attended
 
 <table style="table-layout:fixed;">
 <tr>           
