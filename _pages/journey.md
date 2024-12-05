@@ -118,12 +118,12 @@ _Per aspera ad astra_
   <td width="300">2020</td>
   <td width="10"> </td>
   <td width="1500">
-  [`Chinese government award for outstanding self finance students abroad`](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad)
+  <a href='https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad'>Chinese government award for outstanding self finance students abroad</a>
   </td>
 </tr>
 
 <tr>           
-  <td width="300">2017-2020</td>
+  <td width="300">2017–2020</td>
   <td width="10"> </td>
   <td width="1500">
   Doctoral scholarship from University of Orléans
@@ -131,11 +131,10 @@ _Per aspera ad astra_
 </tr>
 
 <tr>           
-  <td width="300">2015-2017</td>
+  <td width="300">2015–2017</td>
   <td width="10"> </td>
   <td width="1500">
-  [`Sophie Germain master’s scholarship`](https://www.fondation-hadamard.fr/en/our-programs/transversal-programs/graduate-program/) (2015-2017) 
-
+    <a href='https://www.fondation-hadamard.fr/en/our-programs/transversal-programs/graduate-program/'>Sophie Germain master’s scholarship</a>
   </td>
 </tr>
 </table>
@@ -148,14 +147,14 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 
 <table style="table-layout:fixed;">
 <tr>      
-  <td align="left" width="100">2024</td>
+  <td align="left" width="90">2024</td>
   <td align="center" width="50"></td>
   <td align="left" width="150"></td>
   <td align="left" width="1100"></td>
 </tr>
 
 <tr>      
-  <td align="left" width="100">Jan. 10-12</td>
+  <td align="left" width="90">Jan. 10-12</td>
   <td align="center" width="50"> <b>C</b> </td>
   <td align="left" width="150"> Genova, Italy </td>
   <td align="left" width="1100">
