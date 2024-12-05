@@ -155,7 +155,7 @@ _Per aspera ad astra_
 
 <tr>      
   <td align="left" width="100">Jan. 6-19</td>
-  <td align="center" width="100"> <b>V</b> </td>
+  <td align="center" width="100"> V </td>
   <td align="left" width="210"> China, Guangzhou </td>
   <td align="left" width="1100">
   Sun Yat-sen University</td>
@@ -174,26 +174,18 @@ _Per aspera ad astra_
 
 <tr>      
   <td align="left" width="100">Dec. 27-30</td>
-  <td align="center" width="100"> <b>O</b> </td>
+  <td align="center" width="100"> O </td>
   <td align="left" width="210"> China, Harbin </td>
   <td align="left" width="1100">
   <a href='https://im.hit.edu.cn/2024/1125/c8389a359885/page.htm'>Workshop harmonic analysis and applications</a></td>
 </tr>
 
 <tr>      
-  <td align="left" width="100">Dec. 4th</td>
+  <td align="left" width="100">Dec. 4</td>
   <td align="center" width="100"> S </td>
   <td align="left" width="210"> Germany, Bielefeld </td>
   <td align="left" width="1100">
   Universität Bielefeld</td>
-</tr>
-
-<tr>      
-  <td align="left" width="100">Sep. 9-13</td>
-  <td align="center" width="100"> P </td>
-  <td align="left" width="210"> Germany, Paderborn </td>
-  <td align="left" width="1100">
-  <a href='https://trr358.math.uni-bielefeld.de/workshops/view/191'>Integral Structures in Geometry and Representation Theory</a></td>
 </tr>
 
 <tr>      
@@ -206,8 +198,88 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
+  <td align="left" width="100">Sep. 9-13</td>
+  <td align="center" width="100"> P </td>
+  <td align="left" width="210"> Germany, Paderborn </td>
+  <td align="left" width="1100">
+  <a href='https://trr358.math.uni-bielefeld.de/workshops/view/191'>Integral Structures in Geometry and Representation Theory</a></td>
+</tr>
+
+<tr>      
+  <td align="left" width="100">Jul 22 - Aug 2</td>
+  <td align="center" width="100"> V </td>
+  <td align="left" width="210"> China, Kunming </td>
+  <td align="left" width="1100">
+  Yunnan Normal University</td>
+</tr>
+
+<tr>      
+  <td align="left" width="100">May 27-31</td>
+  <td align="center" width="100"> P </td>
+  <td align="left" width="210"> France, Orsay </td>
+  <td align="left" width="1100">
+  <a href='https://math.mit.edu/~dyatlov/mrz60/'>Paris-Saclay conference in Analysis and PDE</a></td>
+</tr>
+
+<tr>      
+  <td align="left" width="100">Apr. 15-19</td>
+  <td align="center" width="100"> V </td>
+  <td align="left" width="210"> China, Guangzhou </td>
+  <td align="left" width="1100">
+  Sun Yat-sen University</td>
+</tr>
+
+<tr>      
+  <td align="left" width="100">Apr. 8-12</td>
+  <td align="center" width="100"> V </td>
+  <td align="left" width="210"> China, Harbin </td>
+  <td align="left" width="1100">
+  Institute for Advanced Study in Mathematics, Harbin Institute of Technology</td>
+</tr>
+
+<tr>      
+  <td align="left" width="100">Apr. 2</td>
+  <td align="center" width="100"> S </td>
+  <td align="left" width="210"> China, Tianjin </td>
+  <td align="left" width="1100">
+  	Tianjin Center for Applied Mathematics, Tianjin University</td>
+</tr>
+
+<tr>      
+  <td align="left" width="100">Mar. 28</td>
+  <td align="center" width="100"> S </td>
+  <td align="left" width="210"> China, Beijing </td>
+  <td align="left" width="1100">
+  		Beijing Normal University</td>
+</tr>
+
+<tr>      
+  <td align="left" width="100">Mar. 27</td>
+  <td align="center" width="100"> S </td>
+  <td align="left" width="210"> China, Beijing </td>
+  <td align="left" width="1100">
+  		Academy for Multidisciplinary Studies, Capital Normal University</td>
+</tr>
+
+<tr>      
+  <td align="left" width="100">Mar. 14-22</td>
+  <td align="center" width="100"> V </td>
+  <td align="left" width="210"> China, Shanghai </td>
+  <td align="left" width="1100">
+  		ShanghaiTech University</td>
+</tr>
+
+<tr>      
+  <td align="left" width="100">Jan. 29</td>
+  <td align="center" width="100"> S </td>
+  <td align="left" width="210"> Germany, Bielefeld </td>
+  <td align="left" width="1100">
+  		Universität Bielefeld</td>
+</tr>
+
+<tr>      
   <td align="left" width="100">Jan. 10-12</td>
-  <td align="center" width="100"> <b>C</b> </td>
+  <td align="center" width="100"> C </td>
   <td align="left" width="210"> Italy, Genova </td>
   <td align="left" width="1100">
   <a href='https://sites.google.com/view/3yrwha24-genova/home?authuser=0'>	
