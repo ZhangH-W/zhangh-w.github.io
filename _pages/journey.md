@@ -119,10 +119,21 @@ _Per aspera ad astra_
 
 C=Conference, O=Organizer, P=Participation, S=Seminar
 
-| Test | Test | Test | Test |
-|----------|----------|----------|----------|
-| **Jan. 2024** | **C** | **Genova, Italy** | **III Young Researchers Workshop in Harmonic Analysis** |
-| Jan. 2024 | C | Genova, Italy | III Young Researchers Workshop in Harmonic Analysis |
+
+<table border="1">
+  <tr>
+    <td>**Jan. 2024**</td>
+    <td>**C**</td>
+    <td>**Genova, Italy**</td>
+    <td>**III Young Researchers Workshop in Harmonic Analysis**</td>
+  </tr>
+  <tr>
+    <td>Jan. 2024</td>
+    <td>C</td>
+    <td>Genova, Italy</td>
+    <td>III Young Researchers Workshop in Harmonic Analysis</td>
+  </tr>
+</table>
 
 
 <table style="table-layout:fixed;">
