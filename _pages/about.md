@@ -39,13 +39,6 @@ social: false  # includes social icons at the bottom of the page
           <a href="https://trr358.math.uni-bielefeld.de/projects/view/B2">Project B2: Spectral Theory in Higher Rank and Infinite Volume</a>
     </td>
  </tr>
- <tr>
-    <td> together with 
-          <a href="https://www.math.uni-bonn.de/people/blomer/">Valentin Blomer</a>,
-          <a href="https://math.uni-paderborn.de/ag/arbeitsgruppe-spektralanalysis/">Tobias Weich</a>,
-          and <a href="https://www.uni-paderborn.de/person/45027">Lasse Wolf</a>
-    </td>
- </tr>
 </table>
 
 <br>
