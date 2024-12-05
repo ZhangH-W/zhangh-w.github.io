@@ -147,6 +147,25 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 
 <table style="table-layout:fixed;">
 <tr>      
+  <td align="left" width="90">2025</td>
+  <td align="center" width="50"></td>
+  <td align="left" width="150"></td>
+  <td align="left" width="1100"></td>
+</tr>
+
+<tr>      
+  <td align="left" width="90">Jan. 6-19</td>
+  <td align="center" width="50"> <b>V</b> </td>
+  <td align="left" width="150"> China, Guangzhou </td>
+  <td align="left" width="1100">
+  Sun Yat-sen University</td>
+</tr>
+</table>
+
+
+<br>
+<table style="table-layout:fixed;">
+<tr>      
   <td align="left" width="90">2024</td>
   <td align="center" width="50"></td>
   <td align="left" width="150"></td>
@@ -154,9 +173,33 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 </tr>
 
 <tr>      
+  <td align="left" width="90">Dec. 27-30</td>
+  <td align="center" width="50"> <b>O</b> </td>
+  <td align="left" width="150"> China, Harbin </td>
+  <td align="left" width="1100">
+  Workshop harmonic analysis and applications</td>
+</tr>
+
+<tr>      
+  <td align="left" width="90">Dec. 4</td>
+  <td align="center" width="50"> S </td>
+  <td align="left" width="150"> Germany, Bielefeld </td>
+  <td align="left" width="1100">
+  Universität Bielefeld</td>
+</tr>
+
+<tr>      
+  <td align="left" width="90">Sep. 9-13</td>
+  <td align="center" width="50"> P </td>
+  <td align="left" width="150"> Germany, Paderborn </td>
+  <td align="left" width="1100">
+  <a href='https://trr358.math.uni-bielefeld.de/workshops/view/191'>Integral Structures in Geometry and Representation Theory</a></td>
+</tr>
+
+<tr>      
   <td align="left" width="90">Jan. 10-12</td>
   <td align="center" width="50"> <b>C</b> </td>
-  <td align="left" width="150"> Genova, Italy </td>
+  <td align="left" width="150"> Italy, Genova </td>
   <td align="left" width="1100">
   III Young Researchers Workshop in Harmonic Analysis</td>
 </tr>
