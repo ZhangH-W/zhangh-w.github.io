@@ -124,10 +124,14 @@ _Per aspera ad astra_
 <br>
 
 #### ACTIVITIES
-<br>
 
 ##### Conferences
 <table style="table-layout:fixed;">
+<tr>           
+  <td width="150">Dec. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Workshop harmonic analysis and applications, Harbin, China (organizer)</td>
+</tr>
 <tr>           
   <td width="150">Apr. 2023</td>
   <td width="10"> </td>
@@ -170,21 +174,53 @@ _Per aspera ad astra_
 </tr>    
 </table>
 
-<br>
 
 ##### Visits
-
-##### Seminars
 <table style="table-layout:fixed;">
 <tr>           
-  <td width="150">Apr. 2024</td>
+  <td width="150">Jan. 2025</td>
   <td width="10"> </td>
   <td width="1500"> Sun Yat-sen University, Guangzhou, China</td>
 </tr>
 <tr>           
+  <td width="150">Jul. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Yunnan Normal University, Kunming, China</td>
+</tr> 
+<tr>           
   <td width="150">Apr. 2024</td>
   <td width="10"> </td>
   <td width="1500"> IASM, Harbin Institute of Technology, China</td>
+</tr>
+<tr>           
+  <td width="150">Apr. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Sun Yat-sen University, Guangzhou, China</td>
+</tr> 
+<tr>           
+  <td width="150">Mar. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> ShanghaiTech University, China</td>
+</tr>
+<tr>           
+  <td width="150">Dec. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> Université de Franche-Comté, Besançon, France</td>
+</tr>
+<tr>           
+  <td width="150">Jul. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> IASM, Harbin Institute of Technology, China</td>
+</tr>
+</table>
+
+
+##### Seminars
+<table style="table-layout:fixed;">
+<tr>           
+  <td width="150">Dec. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Universität Bielefeld, Germany</td>
 </tr>
 <tr>           
   <td width="150">Apr. 2024</td>
@@ -202,24 +238,9 @@ _Per aspera ad astra_
   <td width="1500"> AMS, Capital Normal University, Beijing, China</td>
 </tr>
 <tr>           
-  <td width="150">Mar. 2024</td>
-  <td width="10"> </td>
-  <td width="1500"> ShanghaiTech University, China</td>
-</tr>
-<tr>           
   <td width="150">Jan. 2024</td>
   <td width="10"> </td>
   <td width="1500"> Universität Bielefeld, Germany</td>
-</tr>
-<tr>           
-  <td width="150">Dec. 2023</td>
-  <td width="10"> </td>
-  <td width="1500"> Université de Franche-Comté, Besançon, France</td>
-</tr>
-<tr>           
-  <td width="150">Jul. 2023</td>
-  <td width="10"> </td>
-  <td width="1500"> IASM, Harbin Institute of Technology, China</td>
 </tr>
 <tr>           
   <td width="150">Jun. 2023</td>
@@ -263,30 +284,44 @@ _Per aspera ad astra_
 </tr>  
 </table>
 
-<br>
 
 ##### Conferences attended
 
 <table style="table-layout:fixed;">
 <tr>           
+  <td width="150">Sep. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> 60th Seminar Sophus Lie, Paderborn, Germany</td>
+</tr>
+<tr>           
+  <td width="150">Sep. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Integral Structures in Geometry and Representation Theory, Paderborn, Germany</td>
+</tr>
+<tr>           
+  <td width="150">May. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Paris-Saclay conference in Analysis and PDE, Orsay, France</td>
+</tr>
+<tr>           
   <td width="150">Jul. 2023</td>
   <td width="10"> </td>
-  <td width="1500"> Microlocal and probabilistic methods in geometry and dynamics</td>
+  <td width="1500"> Microlocal and probabilistic methods in geometry and dynamics, Paris, France</td>
 </tr>
 <tr>           
   <td width="150">Jun. 2023</td>
   <td width="10"> </td>
-  <td width="1500"> Processes and heat kernels with symmetries</td>
+  <td width="1500"> Processes and heat kernels with symmetries, Angers, France</td>
 </tr>
 <tr>           
   <td width="150">Nov. 2022</td>
   <td width="10"> </td>
-  <td width="1500">	Operator-Adapted Spaces in Harmonic Analysis and PDEs</td>
+  <td width="1500">	Operator-Adapted Spaces in Harmonic Analysis and PDEs, Oberwolfach, Germany</td>
 </tr>
 <tr>           
   <td width="150">Jun. 2022</td>
   <td width="10"> </td>
-  <td width="1500">	Analyse: conférence en hommage à Jean Ginibre</td>
+  <td width="1500">	Analyse: conférence en hommage à Jean Ginibre, Orsay, France</td>
 </tr>
 <tr>           
   <td width="150">May. 2022</td>
