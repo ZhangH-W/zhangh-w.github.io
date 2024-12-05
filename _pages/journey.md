@@ -125,7 +125,7 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 
 <table style="table-layout:fixed;">
 <tr>      
-  <td width="200">Jan. 2024</td>
+  <td width="150">Jan. 2024</td>
   <td width="10"> </td>
   <td width="10">C</td>
   <td width="10"> </td>
@@ -136,6 +136,7 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 </table>
 
 
+<br>
 <table style="table-layout:fixed;">
 <tr>           
   <td width="150">Apr. 2023</td>
