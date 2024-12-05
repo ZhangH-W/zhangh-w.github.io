@@ -133,6 +133,7 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
   <td width="10"> </td>
   <td width="1100"> III Young Researchers Workshop in Harmonic Analysis</td>
 </tr>
+</table>
 
 
 <table style="table-layout:fixed;">
