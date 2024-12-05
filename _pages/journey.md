@@ -100,7 +100,7 @@ _Per aspera ad astra_
 
 #### Activities
 
-C=Conference, O=Organizer, P=Participation, S=Seminar
+C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 
 <table style="table-layout:fixed;">
 <tr>           
