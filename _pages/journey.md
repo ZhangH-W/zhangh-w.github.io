@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-_Per aspera ad astra_
+_Per aspera ad astra_ s
 
 #### POSITION
 
