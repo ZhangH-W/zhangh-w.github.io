@@ -331,6 +331,15 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
+  <td align="left" width="140">Apr. 6-7</td>
+  <td align="center" width="100"> C </td>
+  <td align="left" width="210"> France, Reims </td>
+  <td align="left" width="1100">
+  <a href='https://indico.math.cnrs.fr/event/9462/'>	
+  Journées SL2R</a></td>
+</tr>
+
+<tr>      
   <td align="left" width="140">Apr. 4</td>
   <td align="center" width="100"> S </td>
   <td align="left" width="210"> Netherlands, Delft </td>
@@ -339,31 +348,38 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="140">Apr. 4</td>
+  <td align="left" width="140">Feb. 28</td>
   <td align="center" width="100"> S </td>
   <td align="left" width="210"> France, Besançon </td>
   <td align="left" width="1100">
   Université de Franche-Comté</td>
 </tr>
+</table>
+
+
+<div style="height: 5px;"></div>
+<table style="table-layout:fixed;">
+<tr>      
+  <td align="left" width="140"><b>2022</b></td>
+  <td align="center" width="100"></td>
+  <td align="left" width="210"></td>
+  <td align="left" width="1100"></td>
+</tr>
 
 <tr>      
-  <td align="left" width="140">Feb. 28</td>
-  <td align="center" width="100"> S </td>
-  <td align="left" width="210"> France, Reims </td>
+  <td align="left" width="140">Feb. 14-18</td>
+  <td align="center" width="100"> C </td>
+  <td align="left" width="210"> Germany, Paderborn </td>
   <td align="left" width="1100">
-  <a href='https://indico.math.cnrs.fr/event/9462/'>	
-  Journées SL2R</a></td>
+  <a href='https://math.uni-paderborn.de/conferences/sdlss'>	
+  Spectra and dynamics on (locally) symmetric spaces</a></td>
 </tr>
 </table>
 
 
+
 <br>
 <table style="table-layout:fixed;">
-<tr>           
-  <td width="150">Feb. 2022</td>
-  <td width="10"> </td>
-  <td width="1500">Spectra and dynamics on (locally) symmetric spaces, Paderborn, Germany</td>
-</tr>
 <tr>           
   <td width="150">Dec. 2021</td>
   <td width="10"> </td>
