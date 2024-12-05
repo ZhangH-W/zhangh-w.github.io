@@ -9,7 +9,7 @@ nav_order: 2
 
 _Per aspera ad astra_
 
-#### POSITION
+#### Position
 
 <table style="table-layout:fixed;">
 <tr>           
@@ -36,6 +36,12 @@ _Per aspera ad astra_
           <a href="https://trr358.math.uni-bielefeld.de/projects/view/B2">Project B2: Spectral Theory in Higher Rank and Infinite Volume</a></td>
 </tr> 
 
+<tr>
+<td width="300"> </td>
+<td width="10"> </td>
+<td width="1500"></td>
+</tr>    
+
 <tr>           
   <td width="300"> Apr. 2021–Jun. 2023 </td>
   <td width="10"> </td>
@@ -59,7 +65,7 @@ _Per aspera ad astra_
 
 <br>
 
-#### EDUCATION
+#### Education
 
 <table style="table-layout:fixed;">
 <tr>           
@@ -78,11 +84,23 @@ _Per aspera ad astra_
     <a href='https://www.imo.universite-paris-saclay.fr/~nb/'>Nicolas Burq (Orsay)</a></td>
 </tr>
 
+<tr>
+<td width="300"> </td>
+<td width="10"> </td>
+<td width="1500"></td>
+</tr>    
+
 <tr>           
   <td width="300">2015–2017</td>
   <td width="10"> </td>
   <td width="1500">M.S. in Mathematics, University of Paris-Saclay, Orsay, France</td>
 </tr>  
+
+<tr>
+<td width="300"> </td>
+<td width="10"> </td>
+<td width="1500"></td>
+</tr>    
 
 <tr>           
   <td width="300">2013–2015</td>
@@ -93,293 +111,41 @@ _Per aspera ad astra_
 
 <br>
 
-#### AWARDS AND SCHOLARSHIPS
+#### Awards and Scholarships
 
-<table style="table-layout:fixed;">
-<tr>           
-  <td width="300">2020</td>
-  <td width="10"> </td>
-  <td width="1500">
-  <a href='https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad'>Chinese government award for outstanding self finance students abroad</a>
-  </td>
-</tr>
-
-<tr>           
-  <td width="300">2017–2020</td>
-  <td width="10"> </td>
-  <td width="1500">
-  Doctoral scholarship from University of Orléans
-  </td>
-</tr>
-
-<tr>           
-  <td width="300">2015–2017</td>
-  <td width="10"> </td>
-  <td width="1500">
-    <a href='https://www.fondation-hadamard.fr/en/our-programs/transversal-programs/graduate-program/'>Sophie Germain master’s scholarship</a>
-  </td>
-</tr>
-</table>
+- [`Chinese government award for outstanding self finance students abroad`](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad) (2020)
+- Doctoral scholarship from University of Orléans (2017–2020)
+- [`Sophie Germain master’s scholarship`](https://www.fondation-hadamard.fr/en/our-programs/transversal-programs/graduate-program/) (2015-2017) 
 
 <br>
 
-#### ACTIVITIES
+#### Activities
 
-(C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit)
+C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 
-<div style="height: 5px;"></div>
 <table style="table-layout:fixed;">
 <tr>      
-  <td align="left" width="140"><b>2025</b></td>
-  <td align="center" width="100"></td>
-  <td align="left" width="210"></td>
-  <td align="left" width="1100"></td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Jan. 6-19</td>
-  <td align="center" width="100"> V </td>
-  <td align="left" width="210"> China, Guangzhou </td>
-  <td align="left" width="1100">
-  Sun Yat-sen University</td>
+  <td align="right" width="150">Jan. 2024</td>
+  <td align="center" width="10">C</td>
+  <td align="center" width="200">Genova, Italy</td>
+  <td align="left" width="1100"> 
+  III Young Researchers Workshop in Harmonic Analysis</td>
 </tr>
 </table>
-
-
-<div style="height: 5px;"></div>
-<table style="table-layout:fixed;">
-<tr>      
-  <td align="left" width="140"><b>2024</b></td>
-  <td align="center" width="100"></td>
-  <td align="left" width="210"></td>
-  <td align="left" width="1100"></td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Dec. 27-30</td>
-  <td align="center" width="100"> O </td>
-  <td align="left" width="210"> China, Harbin </td>
-  <td align="left" width="1100">
-  <a href='https://im.hit.edu.cn/2024/1125/c8389a359885/page.htm'>Workshop harmonic analysis and applications</a></td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Dec. 4</td>
-  <td align="center" width="100"> S </td>
-  <td align="left" width="210"> Germany, Bielefeld </td>
-  <td align="left" width="1100">
-  Universität Bielefeld</td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Sep. 16-19</td>
-  <td align="center" width="100"> P </td>
-  <td align="left" width="210"> Germany, Paderborn </td>
-  <td align="left" width="1100">
-  <a href='https://sites.google.com/view/ssl60/home'>	
-  60th Seminar Sophus Lie</a></td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Sep. 9-13</td>
-  <td align="center" width="100"> P </td>
-  <td align="left" width="210"> Germany, Paderborn </td>
-  <td align="left" width="1100">
-  <a href='https://trr358.math.uni-bielefeld.de/workshops/view/191'>Integral Structures in Geometry and Representation Theory</a></td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Jul. 22-Aug. 2</td>
-  <td align="center" width="100"> V </td>
-  <td align="left" width="210"> China, Kunming </td>
-  <td align="left" width="1100">
-  Yunnan Normal University</td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">May 27-31</td>
-  <td align="center" width="100"> P </td>
-  <td align="left" width="210"> France, Orsay </td>
-  <td align="left" width="1100">
-  <a href='https://math.mit.edu/~dyatlov/mrz60/'>Paris-Saclay conference in Analysis and PDE</a></td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Apr. 15-19</td>
-  <td align="center" width="100"> V </td>
-  <td align="left" width="210"> China, Guangzhou </td>
-  <td align="left" width="1100">
-  Sun Yat-sen University</td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Apr. 8-12</td>
-  <td align="center" width="100"> V </td>
-  <td align="left" width="210"> China, Harbin </td>
-  <td align="left" width="1100">
-  IAMS, Harbin Institute of Technology</td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Apr. 2</td>
-  <td align="center" width="100"> S </td>
-  <td align="left" width="210"> China, Tianjin </td>
-  <td align="left" width="1100">
-  	TCAM, Tianjin University</td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Mar. 28</td>
-  <td align="center" width="100"> S </td>
-  <td align="left" width="210"> China, Beijing </td>
-  <td align="left" width="1100">
-  		Beijing Normal University</td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Mar. 27</td>
-  <td align="center" width="100"> S </td>
-  <td align="left" width="210"> China, Beijing </td>
-  <td align="left" width="1100">
-  		AMS, Capital Normal University</td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Mar. 14-22</td>
-  <td align="center" width="100"> V </td>
-  <td align="left" width="210"> China, Shanghai </td>
-  <td align="left" width="1100">
-  		ShanghaiTech University</td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Jan. 29</td>
-  <td align="center" width="100"> S </td>
-  <td align="left" width="210"> Germany, Bielefeld </td>
-  <td align="left" width="1100">
-  		Universität Bielefeld</td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Jan. 10-12</td>
-  <td align="center" width="100"> C </td>
-  <td align="left" width="210"> Italy, Genova </td>
-  <td align="left" width="1100">
-  <a href='https://sites.google.com/view/3yrwha24-genova/home?authuser=0'>	
-  III Young Researchers Workshop in Harmonic Analysis</a></td>
-</tr>
-</table>
-
-
-<div style="height: 5px;"></div>
-<table style="table-layout:fixed;">
-<tr>      
-  <td align="left" width="140"><b>2023</b></td>
-  <td align="center" width="100"></td>
-  <td align="left" width="210"></td>
-  <td align="left" width="1100"></td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Dec. 11-15</td>
-  <td align="center" width="100"> V </td>
-  <td align="left" width="210"> France, Besançon </td>
-  <td align="left" width="1100">
-  Université de Franche-Comté</td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Jul. 22-Aug.15</td>
-  <td align="center" width="100"> V </td>
-  <td align="left" width="210"> China, Harbin </td>
-  <td align="left" width="1100">
-  IASM, Harbin Institute of Technology</td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Jul. 3-7</td>
-  <td align="center" width="100"> P </td>
-  <td align="left" width="210"> France, Paris </td>
-  <td align="left" width="1100">
-  <a href='https://school2023.sciencesconf.org/'>	
-  Microlocal and probabilistic methods in geometry and dynamics</a></td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Jun. 26-30</td>
-  <td align="center" width="100"> P </td>
-  <td align="left" width="210"> France, Angers </td>
-  <td align="left" width="1100">
-  <a href='https://www.lebesgue.fr/en/heat'>	
-  Processes and heat kernels with symmetries</a></td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Jun. 15</td>
-  <td align="center" width="100"> S </td>
-  <td align="left" width="210"> France, Créteil </td>
-  <td align="left" width="1100">
-  Université Paris-Est Créteil</td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Apr. 25</td>
-  <td align="center" width="100"> S </td>
-  <td align="left" width="210"> Germany, Paderborn </td>
-  <td align="left" width="1100">
-  Universität Paderborn</td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Apr. 6-7</td>
-  <td align="center" width="100"> C </td>
-  <td align="left" width="210"> France, Reims </td>
-  <td align="left" width="1100">
-  <a href='https://indico.math.cnrs.fr/event/9462/'>	
-  Journées SL2R</a></td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Apr. 4</td>
-  <td align="center" width="100"> S </td>
-  <td align="left" width="210"> Netherlands, Delft </td>
-  <td align="left" width="1100">
-  Technische Universiteit Delft</td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Feb. 28</td>
-  <td align="center" width="100"> S </td>
-  <td align="left" width="210"> France, Besançon </td>
-  <td align="left" width="1100">
-  Université de Franche-Comté</td>
-</tr>
-</table>
-
-
-<div style="height: 5px;"></div>
-<table style="table-layout:fixed;">
-<tr>      
-  <td align="left" width="140"><b>2022</b></td>
-  <td align="center" width="100"></td>
-  <td align="left" width="210"></td>
-  <td align="left" width="1100"></td>
-</tr>
-
-<tr>      
-  <td align="left" width="140">Feb. 14-18</td>
-  <td align="center" width="100"> C </td>
-  <td align="left" width="210"> Germany, Paderborn </td>
-  <td align="left" width="1100">
-  <a href='https://math.uni-paderborn.de/conferences/sdlss'>	
-  Spectra and dynamics on (locally) symmetric spaces</a></td>
-</tr>
-</table>
-
 
 
 <br>
 <table style="table-layout:fixed;">
+<tr>           
+  <td width="150">Apr. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> Journées SL2R, Reims, France</td>
+</tr>
+<tr>           
+  <td width="150">Feb. 2022</td>
+  <td width="10"> </td>
+  <td width="1500">Spectra and dynamics on (locally) symmetric spaces, Paderborn, Germany</td>
+</tr>
 <tr>           
   <td width="150">Dec. 2021</td>
   <td width="10"> </td>
@@ -417,7 +183,71 @@ _Per aspera ad astra_
 #### Seminar talks
 
 <table style="table-layout:fixed;">
-
+<tr>           
+  <td width="150">Apr. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Sun Yat-sen University, Guangzhou, China</td>
+</tr>
+<tr>           
+  <td width="150">Apr. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Institute for Advanced Study in Mathematics, Harbin Institute of Technology, China</td>
+</tr>
+<tr>           
+  <td width="150">Apr. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Tianjin Center for Applied Mathematics, Tianjin University, China</td>
+</tr>
+<tr>           
+  <td width="150">Mar. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Beijing Normal University, China</td>
+</tr>
+<tr>           
+  <td width="150">Mar. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Academy for Multidisciplinary Studies, Capital Normal University, Beijing, China</td>
+</tr>
+<tr>           
+  <td width="150">Mar. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> ShanghaiTech University, China</td>
+</tr>
+<tr>           
+  <td width="150">Jan. 2024</td>
+  <td width="10"> </td>
+  <td width="1500"> Universität Bielefeld, Germany</td>
+</tr>
+<tr>           
+  <td width="150">Dec. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> Université de Franche-Comté, Besançon, France</td>
+</tr>
+<tr>           
+  <td width="150">Jul. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> Institute for Advanced Study in Mathematics, Harbin Institute of Technology, China</td>
+</tr>
+<tr>           
+  <td width="150">Jun. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> Université Paris-Est Créteil, France</td>
+</tr>
+<tr>           
+  <td width="150">Apr. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> Universität Paderborn, Germany</td>
+</tr>
+<tr>           
+  <td width="150">Apr. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> Technische Universiteit Delft, Netherlands</td>
+</tr>
+<tr>           
+  <td width="150">Feb. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> Université de Franche-Comté, Besançon, France</td>
+</tr>
 <tr>           
   <td width="150">May 2021</td>
   <td width="10"> </td>
@@ -445,6 +275,16 @@ _Per aspera ad astra_
 #### Conferences attended
 
 <table style="table-layout:fixed;">
+<tr>           
+  <td width="150">Jul. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> Microlocal and probabilistic methods in geometry and dynamics</td>
+</tr>
+<tr>           
+  <td width="150">Jun. 2023</td>
+  <td width="10"> </td>
+  <td width="1500"> Processes and heat kernels with symmetries</td>
+</tr>
 <tr>           
   <td width="150">Nov. 2022</td>
   <td width="10"> </td>
