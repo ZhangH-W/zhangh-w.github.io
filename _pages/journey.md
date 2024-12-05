@@ -189,7 +189,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="140">Jul. 22 - Aug. 2</td>
+  <td align="left" width="140">Jul. 22-Aug. 2</td>
   <td align="center" width="100"> V </td>
   <td align="left" width="210"> China, Kunming </td>
   <td align="left" width="1100">
@@ -217,7 +217,7 @@ _Per aspera ad astra_
   <td align="center" width="100"> V </td>
   <td align="left" width="210"> China, Harbin </td>
   <td align="left" width="1100">
-  Institute for Advanced Study in Mathematics, Harbin Institute of Technology</td>
+  IAMS, Harbin Institute of Technology</td>
 </tr>
 
 <tr>      
@@ -225,7 +225,7 @@ _Per aspera ad astra_
   <td align="center" width="100"> S </td>
   <td align="left" width="210"> China, Tianjin </td>
   <td align="left" width="1100">
-  	Tianjin Center for Applied Mathematics, Tianjin University</td>
+  	TCAM, Tianjin University</td>
 </tr>
 
 <tr>      
@@ -241,7 +241,7 @@ _Per aspera ad astra_
   <td align="center" width="100"> S </td>
   <td align="left" width="210"> China, Beijing </td>
   <td align="left" width="1100">
-  		Academy for Multidisciplinary Studies, Capital Normal University</td>
+  		AMS, Capital Normal University</td>
 </tr>
 
 <tr>      
@@ -271,13 +271,94 @@ _Per aspera ad astra_
 </table>
 
 
+<div style="height: 5px;"></div>
+<table style="table-layout:fixed;">
+<tr>      
+  <td align="left" width="140"><b>2023</b></td>
+  <td align="center" width="100"></td>
+  <td align="left" width="210"></td>
+  <td align="left" width="1100"></td>
+</tr>
+
+<tr>      
+  <td align="left" width="140">Dec. 11-15</td>
+  <td align="center" width="100"> V </td>
+  <td align="left" width="210"> France, Besançon </td>
+  <td align="left" width="1100">
+  Université de Franche-Comté</td>
+</tr>
+
+<tr>      
+  <td align="left" width="140">Jul. 22-Aug.15</td>
+  <td align="center" width="100"> V </td>
+  <td align="left" width="210"> China, Harbin </td>
+  <td align="left" width="1100">
+  IASM, Harbin Institute of Technology</td>
+</tr>
+
+<tr>      
+  <td align="left" width="140">Jul. 3-7</td>
+  <td align="center" width="100"> P </td>
+  <td align="left" width="210"> France, Paris </td>
+  <td align="left" width="1100">
+  <a href='https://school2023.sciencesconf.org/'>	
+  Microlocal and probabilistic methods in geometry and dynamics</a></td>
+</tr>
+
+<tr>      
+  <td align="left" width="140">Jun. 26-30</td>
+  <td align="center" width="100"> P </td>
+  <td align="left" width="210"> France, Angers </td>
+  <td align="left" width="1100">
+  <a href='https://www.lebesgue.fr/en/heat'>	
+  Processes and heat kernels with symmetries</a></td>
+</tr>
+
+<tr>      
+  <td align="left" width="140">Jun. 15</td>
+  <td align="center" width="100"> S </td>
+  <td align="left" width="210"> France, Créteil </td>
+  <td align="left" width="1100">
+  Université Paris-Est Créteil</td>
+</tr>
+
+<tr>      
+  <td align="left" width="140">Apr. 25</td>
+  <td align="center" width="100"> S </td>
+  <td align="left" width="210"> Germany, Paderborn </td>
+  <td align="left" width="1100">
+  Universität Paderborn</td>
+</tr>
+
+<tr>      
+  <td align="left" width="140">Apr. 4</td>
+  <td align="center" width="100"> S </td>
+  <td align="left" width="210"> Netherlands, Delft </td>
+  <td align="left" width="1100">
+  Technische Universiteit Delft</td>
+</tr>
+
+<tr>      
+  <td align="left" width="140">Apr. 4</td>
+  <td align="center" width="100"> S </td>
+  <td align="left" width="210"> France, Besançon </td>
+  <td align="left" width="1100">
+  Université de Franche-Comté</td>
+</tr>
+
+<tr>      
+  <td align="left" width="140">Feb. 28</td>
+  <td align="center" width="100"> S </td>
+  <td align="left" width="210"> France, Reims </td>
+  <td align="left" width="1100">
+  <a href='https://indico.math.cnrs.fr/event/9462/'>	
+  Journées SL2R</a></td>
+</tr>
+</table>
+
+
 <br>
 <table style="table-layout:fixed;">
-<tr>           
-  <td width="150">Apr. 2023</td>
-  <td width="10"> </td>
-  <td width="1500"> Journées SL2R, Reims, France</td>
-</tr>
 <tr>           
   <td width="150">Feb. 2022</td>
   <td width="10"> </td>
@@ -320,36 +401,7 @@ _Per aspera ad astra_
 #### Seminar talks
 
 <table style="table-layout:fixed;">
-<tr>           
-  <td width="150">Dec. 2023</td>
-  <td width="10"> </td>
-  <td width="1500"> Université de Franche-Comté, Besançon, France</td>
-</tr>
-<tr>           
-  <td width="150">Jul. 2023</td>
-  <td width="10"> </td>
-  <td width="1500"> Institute for Advanced Study in Mathematics, Harbin Institute of Technology, China</td>
-</tr>
-<tr>           
-  <td width="150">Jun. 2023</td>
-  <td width="10"> </td>
-  <td width="1500"> Université Paris-Est Créteil, France</td>
-</tr>
-<tr>           
-  <td width="150">Apr. 2023</td>
-  <td width="10"> </td>
-  <td width="1500"> Universität Paderborn, Germany</td>
-</tr>
-<tr>           
-  <td width="150">Apr. 2023</td>
-  <td width="10"> </td>
-  <td width="1500"> Technische Universiteit Delft, Netherlands</td>
-</tr>
-<tr>           
-  <td width="150">Feb. 2023</td>
-  <td width="10"> </td>
-  <td width="1500"> Université de Franche-Comté, Besançon, France</td>
-</tr>
+
 <tr>           
   <td width="150">May 2021</td>
   <td width="10"> </td>
@@ -377,16 +429,6 @@ _Per aspera ad astra_
 #### Conferences attended
 
 <table style="table-layout:fixed;">
-<tr>           
-  <td width="150">Jul. 2023</td>
-  <td width="10"> </td>
-  <td width="1500"> Microlocal and probabilistic methods in geometry and dynamics</td>
-</tr>
-<tr>           
-  <td width="150">Jun. 2023</td>
-  <td width="10"> </td>
-  <td width="1500"> Processes and heat kernels with symmetries</td>
-</tr>
 <tr>           
   <td width="150">Nov. 2022</td>
   <td width="10"> </td>
