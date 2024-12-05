@@ -124,12 +124,24 @@ _Per aspera ad astra_
 C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 
 <table style="table-layout:fixed;">
+<tr>      
+  <td width="200">Jan. 2024</td>
+  <td width="10"> </td>
+  <td width="10">C</td>
+  <td width="10"> </td>
+  <td width="200">Genova, Italy</td>
+  <td width="10"> </td>
+  <td width="1100"> III Young Researchers Workshop in Harmonic Analysis</td>
+</tr>
+
+
+<table style="table-layout:fixed;">
 <tr>           
   <td width="150">Jan. 2024</td>
   <td width="10"> </td>
   <td width="10">C</td>
   <td width="10"> </td>
-  <td width="10">Genova, Italy</td>
+  <td width="20">Genova, Italy</td>
   <td width="10"> </td>
   <td width="1500"> III Young Researchers Workshop in Harmonic Analysis</td>
 </tr>
