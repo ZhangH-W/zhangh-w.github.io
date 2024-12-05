@@ -17,7 +17,8 @@ _Per aspera ad astra_
   <td width="10"> </td>
   <td width="1500">
     Postdoctoral researcher, Paderborn University, Germany</td>
-</tr>
+</tr>   
+
 <tr>           
   <td width="150"> </td>
   <td width="10"> </td>
@@ -35,12 +36,19 @@ _Per aspera ad astra_
           <a href="https://trr358.math.uni-bielefeld.de/projects/view/B2">Project B2: Spectral Theory in Higher Rank and Infinite Volume</a></td>
 </tr> 
 
+<tr>
+<td width="300"> </td>
+<td width="10"> </td>
+<td width="1500">
+</tr>    
+
 <tr>           
   <td width="300"> Apr. 2021–Jun. 2023 </td>
   <td width="10"> </td>
   <td width="1500">
     Postdoctoral researcher, Ghent University, Belgium</td>
 </tr>
+
 <tr>           
   <td width="150"> </td>
   <td width="10"> </td>
@@ -67,6 +75,7 @@ _Per aspera ad astra_
     Ph.D. in Mathematics, University of Orléans, France
     <a href='https://tel.archives-ouvertes.fr/tel-03042468v2/document'>[Thesis]</a></td>
 </tr>
+
 <tr>           
   <td width="150"> </td>
   <td width="10"> </td>
@@ -75,11 +84,23 @@ _Per aspera ad astra_
     <a href='https://www.imo.universite-paris-saclay.fr/~nb/'>Nicolas Burq (Orsay)</a></td>
 </tr>
 
+<tr>
+<td width="300"> </td>
+<td width="10"> </td>
+<td width="1500">
+</tr>    
+
 <tr>           
   <td width="300">2015–2017</td>
   <td width="10"> </td>
   <td width="1500">M.S. in Mathematics, University of Paris-Saclay, Orsay, France</td>
 </tr>  
+
+<tr>
+<td width="300"> </td>
+<td width="10"> </td>
+<td width="1500">
+</tr>    
 
 <tr>           
   <td width="300">2013–2015</td>
@@ -106,9 +127,9 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 <tr>           
   <td width="150">Jan. 2024</td>
   <td width="10"> </td>
-  <td width="50">C</td>
+  <td width="10">C</td>
   <td width="10"> </td>
-  <td width="150">Genova, Italy</td>
+  <td width="10">Genova, Italy</td>
   <td width="10"> </td>
   <td width="1500"> III Young Researchers Workshop in Harmonic Analysis</td>
 </tr>
