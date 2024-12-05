@@ -125,8 +125,8 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 
 <table style="table-layout:fixed;">
 <tr>      
-  <td align="right" width="150">Jan. 2024</td>
-  <td align="center" width="10">C</td>
+  <td align="right" width="100">Jan. 2024</td>
+  <td align="center" width="30">C</td>
   <td align="center" width="200">Genova, Italy</td>
   <td align="left" width="1100"> 
   III Young Researchers Workshop in Harmonic Analysis</td>
