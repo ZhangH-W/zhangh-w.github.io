@@ -9,7 +9,7 @@ nav_order: 2
 
 _Per aspera ad astra_
 
-#### Position
+#### POSITION
 
 <table style="table-layout:fixed;">
 <tr>           
@@ -65,7 +65,7 @@ _Per aspera ad astra_
 
 <br>
 
-#### Education
+#### EDUCATION
 
 <table style="table-layout:fixed;">
 <tr>           
@@ -111,7 +111,7 @@ _Per aspera ad astra_
 
 <br>
 
-#### Awards and Scholarships
+#### AWARDS AND SCHOLARSHIPS
 
 <table style="table-layout:fixed;">
 <tr>           
@@ -141,20 +141,20 @@ _Per aspera ad astra_
 
 <br>
 
-#### Activities
+#### ACTIVITIES
 
-C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
+(C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit)
 
 <table style="table-layout:fixed;">
 <tr>      
-  <td align="left" width="90"><b>2025</b></td>
+  <td align="left" width="100"><b>2025</b></td>
   <td align="center" width="100"></td>
   <td align="left" width="210"></td>
   <td align="left" width="1100"></td>
 </tr>
 
 <tr>      
-  <td align="left" width="90">Jan. 6-19</td>
+  <td align="left" width="100">Jan. 6-19</td>
   <td align="center" width="100"> <b>V</b> </td>
   <td align="left" width="210"> China, Guangzhou </td>
   <td align="left" width="1100">
@@ -166,14 +166,14 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 <br>
 <table style="table-layout:fixed;">
 <tr>      
-  <td align="left" width="90"><b>2024</b></td>
+  <td align="left" width="100"><b>2024</b></td>
   <td align="center" width="100"></td>
   <td align="left" width="210"></td>
   <td align="left" width="1100"></td>
 </tr>
 
 <tr>      
-  <td align="left" width="90">Dec. 27-30</td>
+  <td align="left" width="100">Dec. 27-30</td>
   <td align="center" width="100"> <b>O</b> </td>
   <td align="left" width="210"> China, Harbin </td>
   <td align="left" width="1100">
@@ -181,7 +181,7 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 </tr>
 
 <tr>      
-  <td align="left" width="90">Dec. 4th</td>
+  <td align="left" width="100">Dec. 4th</td>
   <td align="center" width="100"> S </td>
   <td align="left" width="210"> Germany, Bielefeld </td>
   <td align="left" width="1100">
@@ -189,7 +189,7 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 </tr>
 
 <tr>      
-  <td align="left" width="90">Sep. 9-13</td>
+  <td align="left" width="100">Sep. 9-13</td>
   <td align="center" width="100"> P </td>
   <td align="left" width="210"> Germany, Paderborn </td>
   <td align="left" width="1100">
@@ -197,7 +197,7 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 </tr>
 
 <tr>      
-  <td align="left" width="90">Sep. 16-19</td>
+  <td align="left" width="100">Sep. 16-19</td>
   <td align="center" width="100"> P </td>
   <td align="left" width="210"> Germany, Paderborn </td>
   <td align="left" width="1100">
@@ -206,7 +206,7 @@ C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit
 </tr>
 
 <tr>      
-  <td align="left" width="90">Jan. 10-12</td>
+  <td align="left" width="100">Jan. 10-12</td>
   <td align="center" width="100"> <b>C</b> </td>
   <td align="left" width="210"> Italy, Genova </td>
   <td align="left" width="1100">
