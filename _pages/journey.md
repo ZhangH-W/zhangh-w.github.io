@@ -36,12 +36,6 @@ _Per aspera ad astra_
           <a href="https://trr358.math.uni-bielefeld.de/projects/view/B2">Project B2: Spectral Theory in Higher Rank and Infinite Volume</a></td>
 </tr> 
 
-<tr>
-<td width="300"> </td>
-<td width="10"> </td>
-<td width="1500"></td>
-</tr>    
-
 <tr>           
   <td width="300"> Apr. 2021–Jun. 2023 </td>
   <td width="10"> </td>
@@ -84,23 +78,11 @@ _Per aspera ad astra_
     <a href='https://www.imo.universite-paris-saclay.fr/~nb/'>Nicolas Burq (Orsay)</a></td>
 </tr>
 
-<tr>
-<td width="300"> </td>
-<td width="10"> </td>
-<td width="1500"></td>
-</tr>    
-
 <tr>           
   <td width="300">2015–2017</td>
   <td width="10"> </td>
   <td width="1500">M.S. in Mathematics, University of Paris-Saclay, Orsay, France</td>
 </tr>  
-
-<tr>
-<td width="300"> </td>
-<td width="10"> </td>
-<td width="1500"></td>
-</tr>    
 
 <tr>           
   <td width="300">2013–2015</td>
@@ -113,13 +95,36 @@ _Per aspera ad astra_
 
 #### AWARDS AND SCHOLARSHIPS
 
-- [`Chinese government award for outstanding self finance students abroad`](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad) (2020)
-- Doctoral scholarship from University of Orléans (2017–2020)
-- [`Sophie Germain master’s scholarship`](https://www.fondation-hadamard.fr/en/our-programs/transversal-programs/graduate-program/) (2015-2017) 
+<table style="table-layout:fixed;">
+<tr>           
+  <td width="300">2020</td>
+  <td width="10"> </td>
+  <td width="1500">
+  <a href='https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad'>Chinese government award for outstanding self finance students abroad</a>
+  </td>
+</tr>
+
+<tr>           
+  <td width="300">2017–2020</td>
+  <td width="10"> </td>
+  <td width="1500">
+  Doctoral scholarship from University of Orléans
+  </td>
+</tr>
+
+<tr>           
+  <td width="300">2015–2017</td>
+  <td width="10"> </td>
+  <td width="1500">
+    <a href='https://www.fondation-hadamard.fr/en/our-programs/transversal-programs/graduate-program/'>Sophie Germain master’s scholarship</a>
+  </td>
+</tr>
+</table>
 
 <br>
 
 #### ACTIVITIES
+<br>
 
 ##### Conferences
 <table style="table-layout:fixed;">
@@ -156,12 +161,12 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Jan. 2020</td>
   <td width="10"> </td>
-  <td width="1500">Workshop harmonic analysis and applications, Tsinghua Sanya International Mathematics Forum, Sanya, China</td>
+  <td width="1500">Workshop harmonic analysis and applications, TSIMF, Sanya, China</td>
 </tr>
 <tr>           
   <td width="150">Dec. 2018</td>
   <td width="10"> </td>
-  <td width="1500">The legacy of Joseph Fourier after 250 years, Tsinghua Sanya International Mathematics Forum, Sanya, China</td>
+  <td width="1500">The legacy of Joseph Fourier after 250 years, TSIMF, Sanya, China</td>
 </tr>    
 </table>
 
@@ -179,12 +184,12 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Apr. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> Institute for Advanced Study in Mathematics, Harbin Institute of Technology, China</td>
+  <td width="1500"> IASM, Harbin Institute of Technology, China</td>
 </tr>
 <tr>           
   <td width="150">Apr. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> Tianjin Center for Applied Mathematics, Tianjin University, China</td>
+  <td width="1500"> TCAM, Tianjin University, China</td>
 </tr>
 <tr>           
   <td width="150">Mar. 2024</td>
@@ -194,7 +199,7 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Mar. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> Academy for Multidisciplinary Studies, Capital Normal University, Beijing, China</td>
+  <td width="1500"> AMS, Capital Normal University, Beijing, China</td>
 </tr>
 <tr>           
   <td width="150">Mar. 2024</td>
@@ -214,7 +219,7 @@ _Per aspera ad astra_
 <tr>           
   <td width="150">Jul. 2023</td>
   <td width="10"> </td>
-  <td width="1500"> Institute for Advanced Study in Mathematics, Harbin Institute of Technology, China</td>
+  <td width="1500"> IASM, Harbin Institute of Technology, China</td>
 </tr>
 <tr>           
   <td width="150">Jun. 2023</td>
