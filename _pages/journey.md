@@ -127,6 +127,7 @@ _Per aspera ad astra_
 
 (C=Conference, O=Organizer, P=Participation, S=Seminar, V=Visit)
 
+<div style="height: 5px;"></div>
 <table style="table-layout:fixed;">
 <tr>      
   <td align="left" width="140"><b>2025</b></td>
@@ -145,7 +146,7 @@ _Per aspera ad astra_
 </table>
 
 
-<br>
+<div style="height: 5px;"></div>
 <table style="table-layout:fixed;">
 <tr>      
   <td align="left" width="140"><b>2024</b></td>
