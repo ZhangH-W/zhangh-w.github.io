@@ -117,6 +117,8 @@ _Per aspera ad astra_
 
 #### Conference talks
 
+**C=Conference**, S=Seminar, **O=Organizer**, P=Participation
+
 <table style="table-layout:fixed;">
 <tr>           
   <td width="150">Jan. 2024</td>
