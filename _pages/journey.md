@@ -36,12 +36,6 @@ _Per aspera ad astra_
           <a href="https://trr358.math.uni-bielefeld.de/projects/view/B2">Project B2: Spectral Theory in Higher Rank and Infinite Volume</a></td>
 </tr> 
 
-<tr>
-<td width="300"> </td>
-<td width="10"> </td>
-<td width="1500"></td>
-</tr>    
-
 <tr>           
   <td width="300"> Apr. 2021–Jun. 2023 </td>
   <td width="10"> </td>
@@ -84,23 +78,11 @@ _Per aspera ad astra_
     <a href='https://www.imo.universite-paris-saclay.fr/~nb/'>Nicolas Burq (Orsay)</a></td>
 </tr>
 
-<tr>
-<td width="300"> </td>
-<td width="10"> </td>
-<td width="1500"></td>
-</tr>    
-
 <tr>           
   <td width="300">2015–2017</td>
   <td width="10"> </td>
   <td width="1500">M.S. in Mathematics, University of Paris-Saclay, Orsay, France</td>
 </tr>  
-
-<tr>
-<td width="300"> </td>
-<td width="10"> </td>
-<td width="1500"></td>
-</tr>    
 
 <tr>           
   <td width="300">2013–2015</td>
@@ -147,14 +129,14 @@ _Per aspera ad astra_
 
 <table style="table-layout:fixed;">
 <tr>      
-  <td align="left" width="100"><b>2025</b></td>
+  <td align="left" width="140"><b>2025</b></td>
   <td align="center" width="100"></td>
   <td align="left" width="210"></td>
   <td align="left" width="1100"></td>
 </tr>
 
 <tr>      
-  <td align="left" width="100">Jan. 6-19</td>
+  <td align="left" width="140">Jan. 6-19</td>
   <td align="center" width="100"> V </td>
   <td align="left" width="210"> China, Guangzhou </td>
   <td align="left" width="1100">
@@ -166,14 +148,14 @@ _Per aspera ad astra_
 <br>
 <table style="table-layout:fixed;">
 <tr>      
-  <td align="left" width="100"><b>2024</b></td>
+  <td align="left" width="140"><b>2024</b></td>
   <td align="center" width="100"></td>
   <td align="left" width="210"></td>
   <td align="left" width="1100"></td>
 </tr>
 
 <tr>      
-  <td align="left" width="100">Dec. 27-30</td>
+  <td align="left" width="140">Dec. 27-30</td>
   <td align="center" width="100"> O </td>
   <td align="left" width="210"> China, Harbin </td>
   <td align="left" width="1100">
@@ -181,7 +163,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="100">Dec. 4</td>
+  <td align="left" width="140">Dec. 4</td>
   <td align="center" width="100"> S </td>
   <td align="left" width="210"> Germany, Bielefeld </td>
   <td align="left" width="1100">
@@ -189,7 +171,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="100">Sep. 16-19</td>
+  <td align="left" width="140">Sep. 16-19</td>
   <td align="center" width="100"> P </td>
   <td align="left" width="210"> Germany, Paderborn </td>
   <td align="left" width="1100">
@@ -198,7 +180,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="100">Sep. 9-13</td>
+  <td align="left" width="140">Sep. 9-13</td>
   <td align="center" width="100"> P </td>
   <td align="left" width="210"> Germany, Paderborn </td>
   <td align="left" width="1100">
@@ -206,7 +188,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="100">Jul 22 - Aug 2</td>
+  <td align="left" width="140">Jul. 22 - Aug. 2</td>
   <td align="center" width="100"> V </td>
   <td align="left" width="210"> China, Kunming </td>
   <td align="left" width="1100">
@@ -214,7 +196,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="100">May 27-31</td>
+  <td align="left" width="140">May 27-31</td>
   <td align="center" width="100"> P </td>
   <td align="left" width="210"> France, Orsay </td>
   <td align="left" width="1100">
@@ -222,7 +204,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="100">Apr. 15-19</td>
+  <td align="left" width="140">Apr. 15-19</td>
   <td align="center" width="100"> V </td>
   <td align="left" width="210"> China, Guangzhou </td>
   <td align="left" width="1100">
@@ -230,7 +212,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="100">Apr. 8-12</td>
+  <td align="left" width="140">Apr. 8-12</td>
   <td align="center" width="100"> V </td>
   <td align="left" width="210"> China, Harbin </td>
   <td align="left" width="1100">
@@ -238,7 +220,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="100">Apr. 2</td>
+  <td align="left" width="140">Apr. 2</td>
   <td align="center" width="100"> S </td>
   <td align="left" width="210"> China, Tianjin </td>
   <td align="left" width="1100">
@@ -246,7 +228,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="100">Mar. 28</td>
+  <td align="left" width="140">Mar. 28</td>
   <td align="center" width="100"> S </td>
   <td align="left" width="210"> China, Beijing </td>
   <td align="left" width="1100">
@@ -254,7 +236,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="100">Mar. 27</td>
+  <td align="left" width="140">Mar. 27</td>
   <td align="center" width="100"> S </td>
   <td align="left" width="210"> China, Beijing </td>
   <td align="left" width="1100">
@@ -262,7 +244,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="100">Mar. 14-22</td>
+  <td align="left" width="140">Mar. 14-22</td>
   <td align="center" width="100"> V </td>
   <td align="left" width="210"> China, Shanghai </td>
   <td align="left" width="1100">
@@ -270,7 +252,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="100">Jan. 29</td>
+  <td align="left" width="140">Jan. 29</td>
   <td align="center" width="100"> S </td>
   <td align="left" width="210"> Germany, Bielefeld </td>
   <td align="left" width="1100">
@@ -278,7 +260,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>      
-  <td align="left" width="100">Jan. 10-12</td>
+  <td align="left" width="140">Jan. 10-12</td>
   <td align="center" width="100"> C </td>
   <td align="left" width="210"> Italy, Genova </td>
   <td align="left" width="1100">
@@ -337,41 +319,6 @@ _Per aspera ad astra_
 #### Seminar talks
 
 <table style="table-layout:fixed;">
-<tr>           
-  <td width="150">Apr. 2024</td>
-  <td width="10"> </td>
-  <td width="1500"> Sun Yat-sen University, Guangzhou, China</td>
-</tr>
-<tr>           
-  <td width="150">Apr. 2024</td>
-  <td width="10"> </td>
-  <td width="1500"> Institute for Advanced Study in Mathematics, Harbin Institute of Technology, China</td>
-</tr>
-<tr>           
-  <td width="150">Apr. 2024</td>
-  <td width="10"> </td>
-  <td width="1500"> Tianjin Center for Applied Mathematics, Tianjin University, China</td>
-</tr>
-<tr>           
-  <td width="150">Mar. 2024</td>
-  <td width="10"> </td>
-  <td width="1500"> Beijing Normal University, China</td>
-</tr>
-<tr>           
-  <td width="150">Mar. 2024</td>
-  <td width="10"> </td>
-  <td width="1500"> Academy for Multidisciplinary Studies, Capital Normal University, Beijing, China</td>
-</tr>
-<tr>           
-  <td width="150">Mar. 2024</td>
-  <td width="10"> </td>
-  <td width="1500"> ShanghaiTech University, China</td>
-</tr>
-<tr>           
-  <td width="150">Jan. 2024</td>
-  <td width="10"> </td>
-  <td width="1500"> Universität Bielefeld, Germany</td>
-</tr>
 <tr>           
   <td width="150">Dec. 2023</td>
   <td width="10"> </td>
