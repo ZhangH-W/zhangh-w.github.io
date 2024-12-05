@@ -39,7 +39,7 @@ _Per aspera ad astra_
 <tr>
 <td width="300"> </td>
 <td width="10"> </td>
-<td width="1500">
+<td width="1500"></td>
 </tr>    
 
 <tr>           
@@ -87,7 +87,7 @@ _Per aspera ad astra_
 <tr>
 <td width="300"> </td>
 <td width="10"> </td>
-<td width="1500">
+<td width="1500"></td>
 </tr>    
 
 <tr>           
@@ -99,7 +99,7 @@ _Per aspera ad astra_
 <tr>
 <td width="300"> </td>
 <td width="10"> </td>
-<td width="1500">
+<td width="1500"></td>
 </tr>    
 
 <tr>           
