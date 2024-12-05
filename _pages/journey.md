@@ -26,6 +26,7 @@ _Per aspera ad astra_
            and
           <a href="https://trr358.math.uni-bielefeld.de/Pages/aboutUs">CRC TRR 358</a></td>
 </tr> 
+
 <tr>           
   <td width="150"> </td>
   <td width="10"> </td>
@@ -33,25 +34,7 @@ _Per aspera ad astra_
     working on 
           <a href="https://trr358.math.uni-bielefeld.de/projects/view/B2">Project B2: Spectral Theory in Higher Rank and Infinite Volume</a></td>
 </tr> 
-<tr>           
-  <td width="150"> </td>
-  <td width="10"> </td>
-  <td width="1500">
-    together with 
-          <a href="https://www.math.uni-bonn.de/people/blomer/">Valentin Blomer</a>,
-          <a href="https://math.uni-paderborn.de/ag/arbeitsgruppe-spektralanalysis/">Tobias Weich</a>,
-          and <a href="https://www.uni-paderborn.de/person/45027">Lasse Wolf</a></td>
-</tr> 
-<tr>           
-  <td width="150"> </td>
-  <td width="10"> </td>
-  <td width="1500"> </td>
-</tr> 
-<tr>           
-  <td width="150"> </td>
-  <td width="10"> </td>
-  <td width="1500"> </td>
-</tr> 
+
 <tr>           
   <td width="300"> Apr. 2021–Jun. 2023 </td>
   <td width="10"> </td>
@@ -115,32 +98,19 @@ _Per aspera ad astra_
 
 <br>
 
-#### Conference talks
+#### Activities
 
 C=Conference, O=Organizer, P=Participation, S=Seminar
-
-
-<table border="1">
-  <tr>
-    <td>**Jan. 2024**</td>
-    <td>**C**</td>
-    <td>**Genova, Italy**</td>
-    <td>**III Young Researchers Workshop in Harmonic Analysis**</td>
-  </tr>
-  <tr>
-    <td>Jan. 2024</td>
-    <td>C</td>
-    <td>Genova, Italy</td>
-    <td>III Young Researchers Workshop in Harmonic Analysis</td>
-  </tr>
-</table>
-
 
 <table style="table-layout:fixed;">
 <tr>           
   <td width="150">Jan. 2024</td>
   <td width="10"> </td>
-  <td width="1500"> III Young Researchers Workshop in Harmonic Analysis, Genova, Italy</td>
+  <td width="50">C</td>
+  <td width="10"> </td>
+  <td width="150">Genova, Italy</td>
+  <td width="10"> </td>
+  <td width="1500"> III Young Researchers Workshop in Harmonic Analysis</td>
 </tr>
 <tr>           
   <td width="150">Apr. 2023</td>
