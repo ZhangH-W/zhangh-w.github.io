@@ -133,11 +133,6 @@ _Per aspera ad astra_
   <td width="1500"> Workshop harmonic analysis and applications, Harbin, China (organizer)</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Jan. 2024</td>
-  <td width="60"> </td>
-  <td width="1500"> III Young researchers workshop in harmonic analysis, Genova, Italy</td>
-</tr>
-<tr>           
   <td align= "right" width="100">Apr. 2023</td>
   <td width="60"> </td>
   <td width="1500"> Journées SL2R, Reims, France</td>
