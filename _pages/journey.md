@@ -135,7 +135,7 @@ _Per aspera ad astra_
 <tr>           
   <td align= "right" width="100">Jan. 2024</td>
   <td width="60"> </td>
-  <td width="1500"> III Young researchers workshop in harmonic analysis, Genova, Italy</td>
+  <td width="1500"> III Young researchers workshop in harmonic analysiss, Genova, Italy</td>
 </tr>
 <tr>           
   <td align= "right" width="100">Apr. 2023</td>
