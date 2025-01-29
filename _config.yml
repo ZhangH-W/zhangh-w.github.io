@@ -119,10 +119,6 @@ exclude:
   - Gemfile.lock
   - vendor
   - _pages/projects.md
-  - _pages/dropdown.md
-  - _pages/projects.md
-  - _pages/blog.md
-  - _pages/repositories.md
   - assets/jupyter/
 keep_files:
   - CNAME
