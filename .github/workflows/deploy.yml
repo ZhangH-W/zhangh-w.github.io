@@ -90,6 +90,11 @@ jobs:
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec jekyll build
+      - name: Install Dependencies 🔧
+        run: |
+          gem install bundler -v 2.4.22
+          bundle update --bundler
+          bundle install --jobs 4 --retry 3
       - name: Purge unused CSS 🧹
         run: |
           npm install -g purgecss
