@@ -376,3 +376,6 @@ _Per aspera ad astra_
   <td width="1500">Analyse des EDP, Paris, France</td>
 </tr>
 </table>
+
+<!-- markdown-link-check-disable-next-line -->
+[FMJH](https://www.fondation-hadamard.fr/en/our-programs/transversal-programs/graduate-program/)
