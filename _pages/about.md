@@ -54,7 +54,9 @@ social: false  # includes social icons at the bottom of the page
 <br>  
 
 Links:
+<!-- markdown-link-check-disable -->
           [`arXiv`](https://arxiv.org/a/zhang_h_11.html) 
           [`MathSciNet`](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1405686)
           [`Google Scholar`](https://scholar.google.com/citations?user=5ZPwfYcAAAAJ&hl)
           [`Research Gate`](https://www.researchgate.net/profile/Hong-Wei-Zhang-4)
+<!-- markdown-link-check-enable -->
