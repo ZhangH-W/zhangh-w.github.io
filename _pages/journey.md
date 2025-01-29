@@ -123,9 +123,6 @@ _Per aspera ad astra_
 
 <br>
 
-<!-- markdown-link-check-disable -->
-
-<!-- markdown-link-check-enable -->
 
 #### ACTIVITIES
 
