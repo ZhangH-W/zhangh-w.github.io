@@ -118,6 +118,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - _pages/projects.md
+  - assets/jupyter/
 keep_files:
   - CNAME
   - .nojekyll
@@ -283,7 +285,3 @@ popper:
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
-
-exclude:
-  - _pages/projects.md
-  - assets/jupyter/
