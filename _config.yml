@@ -285,4 +285,5 @@ medium_zoom:
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
 
 third_party_libraries:
-  example_lib: "https://example.com/library.js"
+  library1: "https://example.com/lib1.js"
+  library2: "https://example.com/lib2.js"
