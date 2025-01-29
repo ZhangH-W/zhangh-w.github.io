@@ -112,6 +112,9 @@ _Per aspera ad astra_
   </td>
 </tr>
 
+<!-- markdown-link-check-disable-next-line -->
+[Graduate Program](https://www.fondation-hadamard.fr/en/our-programs/transversal-programs/graduate-program/)
+
 <tr>           
   <td width="300">2015–2017</td>
   <td width="60"> </td>
