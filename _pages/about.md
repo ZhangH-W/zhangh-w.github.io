@@ -8,7 +8,7 @@ subtitle: zhongwei at math.uni-paderborn dot de <br />
 profile:
   align: right
   image: Profil.jpg
-  address: >
+  address: |
     <p>Universität Paderborn</p>
     <p>Institut für Mathematik</p>
     <p>Office: J2 302</p>
