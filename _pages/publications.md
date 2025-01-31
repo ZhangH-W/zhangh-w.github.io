@@ -2,7 +2,7 @@
 layout: page
 permalink: /Research/
 title: Research
-years: [preprint]
+years: [preprint, 2024, 2023, 2022, 2021, 2020]
 nav: true
 nav_order: 2
 ---
