@@ -13,7 +13,7 @@ _Per aspera ad astra_
 
 <table style="table-layout:fixed;">
 <tr>           
-  <td width="300"> Since July 2023 </td>
+  <td width="350"> Since July 2023 </td>
   <td width="60"> </td>
   <td width="1500">
     Postdoctoral researcher, Paderborn University, Germany</td>
@@ -37,7 +37,7 @@ _Per aspera ad astra_
 </tr> 
 
 <tr>           
-  <td width="300"> Apr. 2021–Jun. 2023 </td>
+  <td width="350"> Apr. 2021–Jun. 2023 </td>
   <td width="60"> </td>
   <td width="1500">
     Postdoctoral researcher, Ghent University, Belgium</td>
@@ -63,7 +63,7 @@ _Per aspera ad astra_
 
 <table style="table-layout:fixed;">
 <tr>           
-  <td width="300">Oct. 2017–Dec. 2020</td>
+  <td width="350">Oct. 2017–Dec. 2020</td>
   <td width="60"> </td>
   <td width="1500">
     Ph.D. in Mathematics, University of Orléans, France
@@ -79,13 +79,13 @@ _Per aspera ad astra_
 </tr>
 
 <tr>           
-  <td width="300">2015–2017</td>
+  <td width="350">2015–2017</td>
   <td width="60"> </td>
   <td width="1500">M.S. in Mathematics, University of Paris-Saclay, Orsay, France</td>
 </tr>  
 
 <tr>           
-  <td width="300">2013–2015</td>
+  <td width="350">2013–2015</td>
   <td width="60"> </td>
   <td width="1500">B.S. in Mathematics, University of Orléans, France</td>
 </tr>
@@ -97,7 +97,7 @@ _Per aspera ad astra_
 
 <table style="table-layout:fixed;">
 <tr>           
-  <td width="300">2020</td>
+  <td width="350">2020</td>
   <td width="60"> </td>
   <td width="1500">
   <a href='https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self_finance_students_abroad'>Chinese government award for outstanding self finance students abroad</a>
@@ -105,7 +105,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>           
-  <td width="300">2017–2020</td>
+  <td width="350">2017–2020</td>
   <td width="60"> </td>
   <td width="1500">
   Doctoral scholarship from University of Orléans
@@ -113,7 +113,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>           
-  <td width="300">2015–2017</td>
+  <td width="350">2015–2017</td>
   <td width="60"> </td>
   <td width="1500">
     <a href='https://www.fondation-hadamard.fr/en/our-programs/transversal-programs/graduate-program/'>Sophie Germain master’s scholarship</a>
