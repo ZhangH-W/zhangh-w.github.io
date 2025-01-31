@@ -20,7 +20,7 @@ _Per aspera ad astra_
 </tr>   
 
 <tr>           
-  <td align= "right" width="100"> </td>
+  <td align= "right" width="150"> </td>
   <td width="60"> </td>
   <td width="1500">
     member of <a href="https://math.uni-paderborn.de/en/ag/research-group-spectral-analysis">AG Spektralanalysis</a>
@@ -29,7 +29,7 @@ _Per aspera ad astra_
 </tr> 
 
 <tr>           
-  <td align= "right" width="100"> </td>
+  <td align= "right" width="150"> </td>
   <td width="60"> </td>
   <td width="1500">
     working on 
@@ -44,13 +44,13 @@ _Per aspera ad astra_
 </tr>
 
 <tr>           
-  <td align= "right" width="100"> </td>
+  <td align= "right" width="150"> </td>
   <td width="60"> </td>
   <td width="1500">
     member of <a href="https://analysis-pde.org/">Analysis & PDE Center</a></td>
 </tr> 
 <tr>           
-  <td align= "right" width="100"> </td>
+  <td align= "right" width="150"> </td>
   <td width="60"> </td>
   <td width="1500">
     Mentor: <a href="https://ruzhansky.org">Michael Ruzhansky</a></td>
@@ -71,7 +71,7 @@ _Per aspera ad astra_
 </tr>
 
 <tr>           
-  <td align= "right" width="100"> </td>
+  <td align= "right" width="150"> </td>
   <td width="60"> </td>
   <td width="1500">Supervisors:
     <a href='https://www.idpoisson.fr/anker/'>Jean-Philippe Anker (Orléans)</a> and
@@ -128,52 +128,52 @@ _Per aspera ad astra_
 ##### Conferences
 <table style="table-layout:fixed;">
 <tr>           
-  <td align= "right" width="100">Dec. 2024</td>
+  <td align= "right" width="150">Dec. 2024</td>
   <td width="60"> </td>
   <td width="1500"> Workshop harmonic analysis and applications, Harbin, China (organizer)</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Jan. 2024</td>
+  <td align= "right" width="150">Jan. 2024</td>
   <td width="60"> </td>
   <td width="1500"> III Young researchers workshop in harmonic analysis, Genova, Italy</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Apr. 2023</td>
+  <td align= "right" width="150">Apr. 2023</td>
   <td width="60"> </td>
   <td width="1500"> Journées SL2R, Reims, France</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Feb. 2022</td>
+  <td align= "right" width="150">Feb. 2022</td>
   <td width="60"> </td>
   <td width="1500">Spectra and dynamics on (locally) symmetric spaces, Paderborn, Germany</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Dec. 2021</td>
+  <td align= "right" width="150">Dec. 2021</td>
   <td width="60"> </td>
   <td width="1500">Workshop on classical analysis and applications, Yaoundé, Cameroon (online)</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Oct. 2021</td>
+  <td align= "right" width="150">Oct. 2021</td>
   <td width="60"> </td>
   <td width="1500">Modern analysis related to root systems with applications, CIRM, France</td>
 </tr>  
 <tr>           
-  <td align= "right" width="100">Jul. 2021</td>
+  <td align= "right" width="150">Jul. 2021</td>
   <td width="60"> </td>
   <td width="1500">Analyse harmonique et EDP, Evry, France</td>
 </tr>  
 <tr>           
-  <td align= "right" width="100">Mar. 2021</td>
+  <td align= "right" width="150">Mar. 2021</td>
   <td width="60"> </td>
   <td width="1500">AMS Spring eastern sectional meeting, Brown University, USA (online)</td>
 </tr>  
 <tr>           
-  <td align= "right" width="100">Jan. 2020</td>
+  <td align= "right" width="150">Jan. 2020</td>
   <td width="60"> </td>
   <td width="1500">Workshop harmonic analysis and applications, TSIMF, Sanya, China</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Dec. 2018</td>
+  <td align= "right" width="150">Dec. 2018</td>
   <td width="60"> </td>
   <td width="1500">The legacy of Joseph Fourier after 250 years, TSIMF, Sanya, China</td>
 </tr>    
@@ -184,37 +184,37 @@ _Per aspera ad astra_
 ##### Visits
 <table style="table-layout:fixed;">
 <tr>           
-  <td align= "right" width="100">Jan. 2025</td>
+  <td align= "right" width="150">Jan. 2025</td>
   <td width="60"> </td>
   <td width="1500"> Sun Yat-sen University, Guangzhou, China</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Jul. 2024</td>
+  <td align= "right" width="150">Jul. 2024</td>
   <td width="60"> </td>
   <td width="1500"> Yunnan Normal University, Kunming, China</td>
 </tr> 
 <tr>           
-  <td align= "right" width="100">Apr. 2024</td>
+  <td align= "right" width="150">Apr. 2024</td>
   <td width="60"> </td>
   <td width="1500"> IASM, Harbin Institute of Technology, China</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Apr. 2024</td>
+  <td align= "right" width="150">Apr. 2024</td>
   <td width="60"> </td>
   <td width="1500"> Sun Yat-sen University, Guangzhou, China</td>
 </tr> 
 <tr>           
-  <td align= "right" width="100">Mar. 2024</td>
+  <td align= "right" width="150">Mar. 2024</td>
   <td width="60"> </td>
   <td width="1500"> ShanghaiTech University, China</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Dec. 2023</td>
+  <td align= "right" width="150">Dec. 2023</td>
   <td width="60"> </td>
   <td width="1500"> Université de Franche-Comté, Besançon, France</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Jul. 2023</td>
+  <td align= "right" width="150">Jul. 2023</td>
   <td width="60"> </td>
   <td width="1500"> IASM, Harbin Institute of Technology, China</td>
 </tr>
@@ -225,67 +225,67 @@ _Per aspera ad astra_
 ##### Seminars
 <table style="table-layout:fixed;">
 <tr>           
-  <td align= "right" width="100">Dec. 2024</td>
+  <td align= "right" width="150">Dec. 2024</td>
   <td width="60"> </td>
   <td width="1500"> Universität Bielefeld, Germany</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Apr. 2024</td>
+  <td align= "right" width="150">Apr. 2024</td>
   <td width="60"> </td>
   <td width="1500"> TCAM, Tianjin University, China</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Mar. 2024</td>
+  <td align= "right" width="150">Mar. 2024</td>
   <td width="60"> </td>
   <td width="1500"> Beijing Normal University, China</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Mar. 2024</td>
+  <td align= "right" width="150">Mar. 2024</td>
   <td width="60"> </td>
   <td width="1500"> AMS, Capital Normal University, Beijing, China</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Jan. 2024</td>
+  <td align= "right" width="150">Jan. 2024</td>
   <td width="60"> </td>
   <td width="1500"> Universität Bielefeld, Germany</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Jun. 2023</td>
+  <td align= "right" width="150">Jun. 2023</td>
   <td width="60"> </td>
   <td width="1500"> Université Paris-Est Créteil, France</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Apr. 2023</td>
+  <td align= "right" width="150">Apr. 2023</td>
   <td width="60"> </td>
   <td width="1500"> Universität Paderborn, Germany</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Apr. 2023</td>
+  <td align= "right" width="150">Apr. 2023</td>
   <td width="60"> </td>
   <td width="1500"> Technische Universiteit Delft, Netherlands</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Feb. 2023</td>
+  <td align= "right" width="150">Feb. 2023</td>
   <td width="60"> </td>
   <td width="1500"> Université de Franche-Comté, Besançon, France</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">May 2021</td>
+  <td align= "right" width="150">May 2021</td>
   <td width="60"> </td>
   <td width="1500"> Université d'Orléans, France</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Mar. 2021</td>
+  <td align= "right" width="150">Mar. 2021</td>
   <td width="60"> </td>
   <td width="1500"> Université Paris-Saclay, France</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Feb. 2021</td>
+  <td align= "right" width="150">Feb. 2021</td>
   <td width="60"> </td>
   <td width="1500"> Universiteit Gent, Belgium</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Nov. 2018</td>
+  <td align= "right" width="150">Nov. 2018</td>
   <td width="60"> </td>
   <td width="1500"> Université d'Orléans, France</td>
 </tr>  
@@ -297,77 +297,77 @@ _Per aspera ad astra_
 
 <table style="table-layout:fixed;">
 <tr> 
-  <td align= "right" width="100">Sep. 2024</td>
+  <td align= "right" width="150">Sep. 2024</td>
   <td width="60"> </td>
   <td width="1500"> 60th Seminar Sophus Lie, Paderborn, Germany</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Sep. 2024</td>
+  <td align= "right" width="150">Sep. 2024</td>
   <td width="60"> </td>
   <td width="1500"> Integral Structures in Geometry and Representation Theory, Paderborn, Germany</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">May 2024</td>
+  <td align= "right" width="150">May 2024</td>
   <td width="60"> </td>
   <td width="1500"> Paris-Saclay conference in Analysis and PDE, Orsay, France</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Jul. 2023</td>
+  <td align= "right" width="150">Jul. 2023</td>
   <td width="60"> </td>
   <td width="1500"> Microlocal and probabilistic methods in geometry and dynamics, Paris, France</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Jun. 2023</td>
+  <td align= "right" width="150">Jun. 2023</td>
   <td width="60"> </td>
   <td width="1500"> Processes and heat kernels with symmetries, Angers, France</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Nov. 2022</td>
+  <td align= "right" width="150">Nov. 2022</td>
   <td width="60"> </td>
   <td width="1500">	Operator-Adapted Spaces in Harmonic Analysis and PDEs, Oberwolfach, Germany</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Jun. 2022</td>
+  <td align= "right" width="150">Jun. 2022</td>
   <td width="60"> </td>
   <td width="1500">	Analyse: conférence en hommage à Jean Ginibre, Orsay, France</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">May 2022</td>
+  <td align= "right" width="150">May 2022</td>
   <td width="60"> </td>
   <td width="1500">Trends in calculus of variations and PDEs, Sussex&Ghent, UK&Belgium (online)</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Mar. 2022</td>
+  <td align= "right" width="150">Mar. 2022</td>
   <td width="60"> </td>
   <td width="1500">Geometric analysis on manifolds, fractals and metric spaces, Yamagata, Japan (online)</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Oct. 2021</td>
+  <td align= "right" width="150">Oct. 2021</td>
   <td width="60"> </td>
   <td width="1500">Harmonic Analysis and symmetric spaces, Madison, USA (online)</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Sep. 2021</td>
+  <td align= "right" width="150">Sep. 2021</td>
   <td width="60"> </td>
   <td width="1500">Hyperbolic dynamical systems and resonances, Porquerolles, France</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Jun. 2021</td>
+  <td align= "right" width="150">Jun. 2021</td>
   <td width="60"> </td>
   <td width="1500">Analyse et EDP Conférence en l’honneur de Patrick Gérard, Orsay, France</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Sep. 2020</td>
+  <td align= "right" width="150">Sep. 2020</td>
   <td width="60"> </td>
   <td width="1500">Noncommutative analysis, Ghent, Belgium (online)</td>
 </tr>  
 <tr>           
-  <td align= "right" width="100">Mar. 2019</td>
+  <td align= "right" width="150">Mar. 2019</td>
   <td width="60"> </td>
   <td width="1500">Les 60 ans de Jean-Yves Chemin, Paris, France</td>
 </tr>
 <tr>           
-  <td align= "right" width="100">Nov. 2018</td>
+  <td align= "right" width="150">Nov. 2018</td>
   <td width="60"> </td>
   <td width="1500">Analyse des EDP, Paris, France</td>
 </tr>
