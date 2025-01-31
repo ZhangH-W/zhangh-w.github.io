@@ -116,7 +116,7 @@ _Per aspera ad astra_
   <td width="350">2015–2017</td>
   <td width="60"> </td>
   <td width="1500">
-    <a href='https://www.fondation-hadamard.fr/en/our-programs/transversal-programs/graduate-program/'>Sophie Germain master’s scholarship</a>
+    <a href='https://www.fondation-hadamard.fr/en/our-programs/transversal-programs/graduate-program/'>FMJH Sophie Germain master’s scholarship</a>
   </td>
 </tr>
 </table>
