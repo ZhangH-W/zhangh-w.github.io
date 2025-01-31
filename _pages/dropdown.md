@@ -1,13 +1,16 @@
 ---
 layout: page
-title: miscellaneous
-nav: flase
-nav_order: 3
-dropdown: flase
-children: 
-    {% - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/ %}
+title: submenus
+nav: true
+nav_order: 8
+dropdown: true
+children:
+  - title: publications
+    permalink: /publications/
+  - title: divider
+  - title: projects
+    permalink: /projects/
+  - title: divider
+  - title: blog
+    permalink: /blog/
 ---

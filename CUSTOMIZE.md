@@ -71,6 +71,12 @@ You can create new projects by adding new Markdown files in the [\_projects](_pr
 
 You can add news in the about page by adding new Markdown files in the [\_news](_news/) directory. There are currently two types of news: inline news and news with a link. News with a link take you to a new page while inline news are displayed directly in the about page. The easiest way to create yours is to copy an existing news and modify it.
 
+## Adding Collections
+
+This Jekyll theme implements `collections` to let you break up your work into categories. The theme comes with two default collections: `news` and `projects`. Items from the `news` collection are automatically displayed on the home page. Items from the `projects` collection are displayed on a responsive grid on projects page.
+
+You can easily create your own collections, apps, short stories, courses, or whatever your creative work is. To do this, edit the collections in the [\_config.yml](_config.yml) file, create a corresponding folder, and create a landing page for your collection, similar to [\_pages/projects.md](_pages/projects.md).
+
 ## Adding a new publication
 
 To add publications create a new entry in the [\_bibliography/papers.bib](_bibliography/papers.bib) file. You can find the BibTeX entry of a publication in Google Scholar by clicking on the quotation marks below the publication title, then clicking on "BibTeX", or also in the conference page itself. By default, the publications will be sorted by year and the most recent will be displayed first. You can change this behavior and more in the `Jekyll Scholar` section in [\_config.yml](_config.yml) file.
@@ -87,7 +93,7 @@ scholar:
   first_name: [Albert, A.]
 ```
 
-If the entry matches one form of the last names and the first names, it will be underlined. Keep meta-information about your co-authors in and Jekyll will insert links to their webpages automatically. The co-author data format is as follows, with the last names lower cased and without accents as the key:
+If the entry matches one form of the last names and the first names, it will be underlined. Keep meta-information about your co-authors in [\_data/coauthors.yml](_data/coauthors.yml) and Jekyll will insert links to their webpages automatically. The co-author data format is as follows, with the last names lower cased and without accents as the key:
 
 ```yaml
 "adams":
@@ -140,7 +146,7 @@ A variety of beautiful theme colors have been selected for you to choose from. T
 
 ## Adding social media information
 
-You can add your social media links by adding the specified information at the `Social integration` section in the [\_config.yml](_config.yml) file. This information will appear at the bottom of the `About` page.
+You can add your social media links by adding the specified information in the [\_data/socials.yml](_data/socials.yml) file. This information will appear at the bottom of the `About` page and in the search results by default, but this could be changed to appear at the header of the page by setting `enable_navbar_social: true` and doesn't appear in the search by setting `socials_in_search: false`, both in [\_config.yml](_config.yml).
 
 ## Adding a newsletter
 
@@ -155,6 +161,7 @@ Since this template have a lot of content, you may want to remove some of it. Th
 ```yml
 excludes:
   - _news/announcement_*.md
+  - _pages/blog.md
   - _posts/
   - _projects/?_project.md
   - assets/jupyter/blog.ipynb
@@ -166,7 +173,11 @@ Here is a list of the main components that you may want to delete, and how to do
 
 To remove the blog, you have to:
 
-- remove the `Blog` section in the [\_config.yml](_config.yml) file and the related parts, like the `jekyll-archives` and `latest_posts`
+- delete [\_posts](_posts/) directory
+- delete blog page [\_pages/blog.md](_pages/blog.md)
+- remove reference to blog page in our [\_pages/dropdown.md](_pages/dropdown.md)
+- remove the `latest_posts` part in [\_pages/about.md](_pages/about.md)
+- remove the `Blog` section in the [\_config.yml](_config.yml) file and the related parts, like the `jekyll-archives`
 
 You can also:
 
@@ -185,7 +196,7 @@ To remove the news section, you can:
 
 - delete the [\_news](_news/) directory
 - delete the file [\_includes/news.liquid](_includes/news.liquid) and the references to it in the [\_pages/about.md](_pages/about.md)
-- remove the `announcements` part in [\_config.yml](_config.yml)
+- remove the `announcements` part in [\_pages/about.md](_pages/about.md)
 - remove the news part in the `Collections` section in the [\_config.yml](_config.yml) file
 
 ### Removing the projects page
@@ -208,6 +219,7 @@ To remove the publications, you can:
 
 - delete the [\_bibliography](_bibliography/) directory
 - delete the publications page [\_pages/publications.md](_pages/publications.md)
+- remove reference to publications page in our [\_pages/dropdown.md](_pages/dropdown.md)
 - remove `Jekyll Scholar` section in the [\_config.yml](_config.yml) file
 
 You can also:
@@ -221,6 +233,12 @@ You can also:
 - delete [\_plugins/inspirehep-citations.rb](_plugins/inspirehep-citations.rb)
 - remove the `jekyll-scholar` gem from the [Gemfile](Gemfile) and the `plugins` section in [\_config.yml](_config.yml)
 
+### Removing the repositories page
+
+To remove the repositories, you can:
+
+- delete the repositories page [\_pages/repositories.md](_pages/repositories.md)
+- delete [\_includes/repository/](_includes/repository/) directory
 
 ## Adding Token for Lighthouse Badger
 
