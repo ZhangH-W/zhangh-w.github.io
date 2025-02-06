@@ -225,6 +225,11 @@ _Per aspera ad astra_
 ##### Seminars
 <table style="table-layout:fixed;">
 <tr>           
+  <td align= "right" width="150">Jan. 2025</td>
+  <td width="60"> </td>
+  <td width="1500"> ShanghaiTech University, China</td>
+</tr>
+<tr>           
   <td align= "right" width="150">Dec. 2024</td>
   <td width="60"> </td>
   <td width="1500"> Universität Bielefeld, Germany</td>
@@ -324,7 +329,7 @@ _Per aspera ad astra_
 <tr>           
   <td align= "right" width="150">Nov. 2022</td>
   <td width="60"> </td>
-  <td width="1500">	Operator-Adapted Spaces in Harmonic Analysis and PDEs, Oberwolfach, Germany</td>
+  <td width="1500">	Operator-adapted apaces in harmonic analysis and PDEs, Oberwolfach, Germany</td>
 </tr>
 <tr>           
   <td align= "right" width="150">Jun. 2022</td>
@@ -344,7 +349,7 @@ _Per aspera ad astra_
 <tr>           
   <td align= "right" width="150">Oct. 2021</td>
   <td width="60"> </td>
-  <td width="1500">Harmonic Analysis and symmetric spaces, Madison, USA (online)</td>
+  <td width="1500">Harmonic analysis and symmetric spaces, Madison, USA (online)</td>
 </tr>
 <tr>           
   <td align= "right" width="150">Sep. 2021</td>
