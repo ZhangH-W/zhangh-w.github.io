@@ -610,7 +610,7 @@ h1 {
   .pub-year { grid-column: 1 / -1; }
   .journey-grid { grid-template-columns: 1fr; gap: 30px; }
   .interest-list { grid-template-columns: 1fr; }
-  .travel-track { grid-template-columns: repeat(4, 1fr); gap: 28px 12px; }
+  .travel-track { grid-template-columns: repeat(2, 1fr); gap: 28px 12px; }
   .travel-track::before { display: none; }
   .travel-month { min-height: 90px; }
   .travel-month span { position: static; transform: none; }
