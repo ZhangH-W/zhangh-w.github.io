@@ -594,12 +594,18 @@ h1 {
 @media (max-width: 680px) {
   .site-header { height: 58px; padding: 0 16px; }
   .nav {
+    display: flex !important;
+    visibility: visible;
+    opacity: 1;
     justify-self: stretch;
     justify-content: space-between;
+    width: 100%;
     gap: 10px;
+    color: var(--ink);
     font-size: 0.65rem;
     letter-spacing: 0.05em;
   }
+  .nav a { display: inline-block; }
   main, .footer { width: min(100% - 32px, 1240px); }
   .hero { padding: 32px 0; }
   .hero { grid-template-columns: 1fr; }
