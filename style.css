@@ -3,8 +3,8 @@
 :root {
   --ink: #002c43;
   --muted: #66736c;
-  --paper: #e7e2c6;
-  --paper-deep: #dcd6b7;
+  --paper: #e8e5dc;
+  --paper-deep: #dedad0;
   --accent: #d8ff55;
   --line: rgba(22, 34, 28, 0.18);
   --sans: "DM Sans", "Helvetica Neue", Arial, sans-serif;
@@ -45,7 +45,7 @@ a:focus-visible {
   height: 72px;
   padding: 0 max(24px, calc((100vw - 1240px) / 2));
   border-bottom: 1px solid var(--line);
-  background: rgba(231, 226, 198, 0.9);
+  background: rgba(232, 229, 220, 0.9);
   backdrop-filter: blur(16px);
 }
 
