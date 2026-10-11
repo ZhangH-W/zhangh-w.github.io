@@ -538,126 +538,6 @@ h1 {
 .travel-event:nth-child(odd) p { bottom: calc(100% + 24px); }
 .travel-event:nth-child(even) p { top: 38px; }
 .travel-event p a { border-bottom: 1px solid var(--muted); color: var(--ink); }
-.gallery-section { display: block; padding: clamp(32px, 4vw, 48px) 0; }
-.gallery-section .section-heading {
-  position: static;
-  margin-bottom: 48px;
-  text-align: left;
-}
-.gallery-section .section-heading h2 {
-  margin: 0;
-  font-family: var(--sans);
-  font-size: clamp(2.25rem, 3.5vw, 3.5rem);
-  font-style: normal;
-  font-weight: 500;
-  letter-spacing: -0.05em;
-  line-height: 1.05;
-}
-.gallery-wall {
-  column-count: 3;
-  column-gap: clamp(16px, 2.2vw, 26px);
-}
-.photo-post {
-  display: inline-block;
-  width: 100%;
-  margin: 0 0 clamp(22px, 2.8vw, 34px);
-  break-inside: avoid;
-}
-.gallery-shot {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  border: 1px solid var(--line);
-  background: var(--paper-deep);
-}
-.post-wide .gallery-shot { aspect-ratio: 4 / 3; }
-.post-portrait .gallery-shot { aspect-ratio: 4 / 5.6; }
-.post-small .gallery-shot { aspect-ratio: 1 / 1; }
-.post-half .gallery-shot { aspect-ratio: 5 / 3.4; }
-.gallery-shot::before,
-.gallery-shot::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-}
-.gallery-shot::before {
-  opacity: 0.9;
-  background:
-    linear-gradient(135deg, transparent 0 45%, rgba(0, 44, 67, 0.13) 45% 100%),
-    linear-gradient(180deg, transparent 55%, rgba(0, 44, 67, 0.18));
-}
-.gallery-shot::after {
-  inset: auto 18px 18px auto;
-  width: 76px;
-  height: 1px;
-  background: rgba(0, 44, 67, 0.34);
-}
-.shot-talk {
-  background:
-    linear-gradient(90deg, rgba(0, 44, 67, 0.16) 0 18%, transparent 18% 100%),
-    linear-gradient(155deg, #d8d4ca, #eeebe1 52%, #aeb9b2);
-}
-.shot-board {
-  background:
-    linear-gradient(110deg, rgba(0, 44, 67, 0.9), rgba(0, 44, 67, 0.62)),
-    linear-gradient(90deg, transparent 0 26%, rgba(232, 229, 220, 0.2) 26% 27%, transparent 27% 100%);
-}
-.shot-group {
-  background:
-    linear-gradient(90deg, rgba(0, 44, 67, 0.18) 0 16%, transparent 16% 31%, rgba(0, 44, 67, 0.13) 31% 44%, transparent 44% 61%, rgba(0, 44, 67, 0.15) 61% 76%, transparent 76% 100%),
-    linear-gradient(160deg, #d4d0c5, #ebe8de 58%, #bcc6bd);
-}
-.shot-campus {
-  background:
-    linear-gradient(90deg, rgba(0, 44, 67, 0.22) 0 12%, transparent 12% 20%, rgba(0, 44, 67, 0.16) 20% 31%, transparent 31% 100%),
-    linear-gradient(168deg, #e8e5dc, #c7d0c7 58%, #9fa99f);
-}
-.shot-table {
-  background:
-    linear-gradient(0deg, rgba(0, 44, 67, 0.18) 0 28%, transparent 28% 100%),
-    linear-gradient(140deg, #d7d3c8, #f0ede3 54%, #bbc5bd);
-}
-.shot-city {
-  background:
-    linear-gradient(90deg, transparent 0 30%, rgba(0, 44, 67, 0.18) 30% 45%, transparent 45% 100%),
-    linear-gradient(180deg, #f0ede3, #c9d1c8 58%, #96a299);
-}
-.shot-audience {
-  background:
-    linear-gradient(90deg, rgba(0, 44, 67, 0.13) 0 8%, transparent 8% 17%, rgba(0, 44, 67, 0.12) 17% 25%, transparent 25% 100%),
-    linear-gradient(150deg, #d1cdc2, #ebe8df 48%, #aeb9b2);
-}
-.shot-notes {
-  background:
-    repeating-linear-gradient(0deg, rgba(0, 44, 67, 0.12) 0 1px, transparent 1px 18px),
-    linear-gradient(150deg, #eeeade, #d0d8ce);
-}
-.shot-hall {
-  background:
-    linear-gradient(90deg, transparent 0 18%, rgba(0, 44, 67, 0.18) 18% 19%, transparent 19% 38%, rgba(0, 44, 67, 0.14) 38% 39%, transparent 39% 100%),
-    linear-gradient(155deg, #ddd8cd, #ebe8df 45%, #a8b3ab);
-}
-.photo-post figcaption {
-  display: flex;
-  justify-content: space-between;
-  gap: 18px;
-  margin-top: 9px;
-  color: var(--muted);
-  font-size: 0.76rem;
-  line-height: 1.45;
-}
-.photo-post figcaption span {
-  font-weight: 600;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-}
-.photo-post figcaption strong {
-  color: var(--ink);
-  font-size: 0.82rem;
-  font-weight: 400;
-  letter-spacing: 0;
-  text-align: right;
-}
 .research-block + .research-block { margin-top: 60px; }
 .interest-list {
   display: grid;
@@ -761,10 +641,6 @@ h1 {
   .travel-event p,
   .travel-event:nth-child(odd) p,
   .travel-event:nth-child(even) p { position: static; width: auto; margin: 8px 0 0; transform: none; text-align: left; }
-  .gallery-wall { column-count: 2; column-gap: 14px; }
-  .photo-post { margin-bottom: 22px; }
-  .photo-post figcaption { display: block; margin-top: 7px; }
-  .photo-post figcaption strong { display: block; margin-top: 1px; text-align: left; }
   .awards { margin-top: 30px; }
   .awards p, .teaching-list p { grid-template-columns: 1fr; gap: 5px; }
   .footer { grid-template-columns: 1fr; gap: 60px; padding: 70px 28px 35px; }
